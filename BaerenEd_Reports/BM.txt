@@ -9,53 +9,54 @@ Here's BM's learning progress report for today:
 🎯 OVERALL PROGRESS:
 • Completion Rate: 14.8%
 • Stars Earned: 4/27
-• Total Learning Time: 0 minutes
-• Games Played: 0
+• Total Learning Time: 20 minutes
+• Games Played: 1
 • Videos Watched: 0
-• Questions Answered: 0 correct, 0 incorrect
-
+• Questions Answered:   0✅   0❌
+• Web Games Played: 2
+• Web Pages Visited: 1
 • Required Tasks Incomplete: 9
 
 ⏳ INCOMPLETE REQUIRED TASKS:
-• Google Read Along: No time spent   0 ✅   0 ❌
-• Translation: No time spent   0 ✅   0 ❌
-• French Stories: No time spent   0 ✅   0 ❌
-• Congugation: No time spent   0 ✅   0 ❌
-• Times Tables: No time spent   0 ✅   0 ❌
-• Eng Spelling: No time spent   0 ✅   0 ❌
-• Fr Spelling: No time spent   0 ✅   0 ❌
-• Kung Fu Form: No time spent
-• Kung Fu: No time spent
+• Google Read Along: 0s   0 ✅   0 ❌
+• Translation: 0s   0 ✅   0 ❌
+• French Stories: 0s   0 ✅   0 ❌
+• Congugation: 0s   0 ✅   0 ❌
+• Times Tables: 0s   0 ✅   0 ❌
+• Eng Spelling: 0s   0 ✅   0 ❌
+• Fr Spelling: 16m30s   0 ✅   0 ❌
+• Kung Fu Form: 0s
+• Kung Fu: 0s
 
 🎯 EXTRA PRACTICE TASKS:
-• Je Lis: No time spent
-• Money Game: No time spent   0 ✅   0 ❌
-• Duological: No time spent   0 ✅   0 ❌
-• Translation: No time spent   0 ✅   0 ❌
-• French Stories: No time spent   0 ✅   0 ❌
-• Congugation: No time spent   0 ✅   0 ❌
-• Fractions: No time spent   0 ✅   0 ❌
-• Math: No time spent   0 ✅   0 ❌
-• Mixed Math: No time spent   0 ✅   0 ❌
-• Math Word Problems: No time spent   0 ✅   0 ❌
-• Algebra: No time spent   0 ✅   0 ❌
-• Times Tables: No time spent   0 ✅   0 ❌
-• Time Telling: No time spent   0 ✅   0 ❌
-• Money Game: No time spent   0 ✅   0 ❌
+• Je Lis: 3m31s
+• Money Game: 0s   0 ✅   0 ❌
+• Duological: 0s   0 ✅   0 ❌
+• Translation: 0s   0 ✅   0 ❌
+• French Stories: 0s   0 ✅   0 ❌
+• Congugation: 0s   0 ✅   0 ❌
+• Fractions: 0s   0 ✅   0 ❌
+• Math: 0s   0 ✅   0 ❌
+• Mixed Math: 0s   0 ✅   0 ❌
+• Math Word Problems: 0s   0 ✅   0 ❌
+• Algebra: 0s   0 ✅   0 ❌
+• Times Tables: 0s   0 ✅   0 ❌
+• Time Telling: 0s   0 ✅   0 ❌
+• Money Game: 11s   0 ✅   0 ❌
 
 🎮 BONUS TASKS:
-• Bluey: No time spent
-• PJ Mask: No time spent
-• Caillou: No time spent
-• Peppa Pig: No time spent
-• Pokemon: No time spent
-• Smurfs: No time spent
-• Simon: No time spent
-• Number Blocks: No time spent
-• Bill Nye S1-2: No time spent
-• Bill Nye S3: No time spent
-• Bill Nye S4: No time spent
-• Bill Nye S5: No time spent
+• Bluey: 0s
+• PJ Mask: 0s
+• Caillou: 0s
+• Peppa Pig: 0s
+• Pokemon: 0s
+• Smurfs: 0s
+• Simon: 0s
+• Number Blocks: 0s
+• Bill Nye S1-2: 0s
+• Bill Nye S3: 0s
+• Bill Nye S4: 0s
+• Bill Nye S5: 0s
 
 
 
