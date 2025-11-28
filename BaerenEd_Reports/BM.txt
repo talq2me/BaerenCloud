@@ -9,11 +9,11 @@ Here's BM's learning progress report for today:
 🎯 OVERALL PROGRESS:
 • Completion Rate: 37.5%
 • Stars Earned: 12/32
-• Total Learning Time: 14 minutes
+• Total Learning Time: 18 minutes
 • Games Played: 5
 • Videos Watched: 2
-• Questions Answered:   98✅   21❌
-• Web Games Played: 9
+• Questions Answered:   175✅   22❌
+• Web Games Played: 16
 • Web Pages Visited: 1
 • Required Tasks Incomplete: 8
 
@@ -49,7 +49,7 @@ Here's BM's learning progress report for today:
 • Mixed Math: 0s   0 ✅   0 ❌
 • Math Word Problems: 0s   0 ✅   0 ❌
 • Algebra: 0s   0 ✅   0 ❌
-• Times Tables: 5m40s   66 ✅   0 ❌
+• Times Tables: 9m40s   143 ✅   1 ❌
 • Time Telling: 0s   0 ✅   0 ❌
 • Money Game: 0s   0 ✅   0 ❌
 
