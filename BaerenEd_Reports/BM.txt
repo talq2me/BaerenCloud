@@ -10,9 +10,9 @@ Here's BM's learning progress report for today:
 • Completion Rate: 37.5%
 • Stars Earned: 12/32
 • Total Learning Time: 18 minutes
-• Games Played: 5
+• Games Played: 6
 • Videos Watched: 2
-• Questions Answered:   175✅   22❌
+• Questions Answered:   176✅   24❌
 • Web Games Played: 16
 • Web Pages Visited: 1
 • Required Tasks Incomplete: 8
@@ -42,7 +42,7 @@ Here's BM's learning progress report for today:
 • Money Game: 13s   2 ✅   0 ❌
 • Duological: 0s   0 ✅   0 ❌
 • Translation: 0s   0 ✅   0 ❌
-• French Stories: 0s   0 ✅   0 ❌
+• French Stories: 12s   1 ✅   2 ❌
 • Congugation: 0s   0 ✅   0 ❌
 • Fractions: 0s   0 ✅   0 ❌
 • Math: 0s   0 ✅   0 ❌
