@@ -7,38 +7,40 @@ Dear Parent/Guardian,
 Here's AM's learning progress report for today:
 
 🎯 OVERALL PROGRESS:
-• Completion Rate: 0.0%
-• Stars Earned: 0/56
-• Total Learning Time: 0 minutes
-• Games Played: 0
-• Videos Watched: 0
-• Questions Answered:   0✅   0❌
+• Completion Rate: 57.1%
+• Stars Earned: 32/56
+• Total Learning Time: 8 minutes
+• Games Played: 2
+• Videos Watched: 4
+• Questions Answered:   33✅   6❌
+• Web Games Played: 4
+• Required Tasks Incomplete: 8
 
-• Required Tasks Incomplete: 17
-
-⏳ INCOMPLETE REQUIRED TASKS:
+✅ COMPLETED REQUIRED TASKS:
 • Google Read Along: 0s   0 ✅   0 ❌
-• French Sounds: 0s   0 ✅   0 ❌
-• Sight Words: 0s   0 ✅   0 ❌
-• Math: 0s   0 ✅   0 ❌
-• Sk Spellings: 0s   0 ✅   0 ❌
-• French Vowels: 0s   0 ✅   0 ❌
-• Time Telling: 0s   0 ✅   0 ❌
-• Handwriting: 0s   0 ✅   0 ❌
-• Money Game: 0s   0 ✅   0 ❌
-• Sentence Builder: 0s   0 ✅   0 ❌
-• UFLI Words: 0s   0 ✅   0 ❌
-• Kung Fu Form: 0s
-• Kung Fu: 0s
-• Facile A Lire 1: 0s
-• Facile A Lire 2: 0s
-• Ufli Home Videos: 0s
-• French UFLI: 0s
+• French Sounds: 1m21s   10 ✅   2 ❌
+• Math: 57s   5 ✅   0 ❌
+• French Vowels: 34s   8 ✅   2 ❌
+• Time Telling: 3m11s   10 ✅   2 ❌
+• Handwriting: 38s   0 ✅   0 ❌
+• Kung Fu Form: 1m1s
+• Kung Fu: 1m1s
+• Facile A Lire 2: 46s
 • ✓ Laundry
 • ✓ Printing
 • ✓ Push ups: 15
 • ✓ Practice Kung Fu
 • ✓ Practice piano
+
+⏳ INCOMPLETE REQUIRED TASKS:
+• Sight Words: 0s   0 ✅   0 ❌
+• Sk Spellings: 0s   0 ✅   0 ❌
+• Money Game: 0s   0 ✅   0 ❌
+• Sentence Builder: 0s   0 ✅   0 ❌
+• UFLI Words: 0s   0 ✅   0 ❌
+• Facile A Lire 1: 7s
+• Ufli Home Videos: 0s
+• French UFLI: 0s
 
 🎯 EXTRA PRACTICE TASKS:
 • Sight Words: 0s   0 ✅   0 ❌
@@ -70,7 +72,7 @@ Here's AM's learning progress report for today:
 
 
 🏆 ACHIEVEMENTS:
-💪 Every bit of progress counts! Keep trying!
+📈 Making progress! Try completing a few more tasks.
 
 💡 Consider encouraging more learning time for better outcomes.
 
