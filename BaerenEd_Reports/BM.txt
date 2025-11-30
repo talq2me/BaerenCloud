@@ -6,29 +6,30 @@ Dear Parent/Guardian,
 
 Here's BM's learning progress report for today:
 
-🎯 OVERALL PROGRESS:
-• Completion Rate: 57.7%
-• Stars Earned: 15/26
-• Total Learning Time: 6 minutes
-• Games Played: 10
-• Videos Watched: 0
-• Questions Answered:   41✅   2❌
-• Web Games Played: 1
-• Required Tasks Incomplete: 5
+🎮 Reward Time Used: 1 minutes
 
-✅ COMPLETED REQUIRED TASKS:
-• Translation: 1m8s   7 ✅   0 ❌
-• French Stories: 1m17s   5 ✅   0 ❌
-• Congugation: 49s   7 ✅   0 ❌
-• Times Tables: 2m2s   11 ✅   2 ❌
-• Algebra: 48s   5 ✅   0 ❌
+
+🎯 OVERALL PROGRESS:
+• Completion Rate: 0.0%
+• Stars Earned: 0/26
+• Total Learning Time: 0 minutes
+• Games Played: 1
+• Videos Watched: 0
+• Questions Answered:   1✅   0❌
+
+• Required Tasks Incomplete: 10
 
 ⏳ INCOMPLETE REQUIRED TASKS:
 • Google Read Along: 0s   0 ✅   0 ❌
+• Translation: 0s   0 ✅   0 ❌
+• French Stories: 0s   0 ✅   0 ❌
+• Congugation: 0s   0 ✅   0 ❌
+• Times Tables: 0s   0 ✅   0 ❌
 • Eng Spelling: 0s   0 ✅   0 ❌
 • Fr Spelling: 0s   0 ✅   0 ❌
 • Kung Fu Form: 0s
 • Kung Fu: 0s
+• Algebra: 0s   0 ✅   0 ❌
 • ✓ French Reading
 • ✓ Laundry
 • ✓ Practice Kung Fu
@@ -37,7 +38,7 @@ Here's BM's learning progress report for today:
 
 🎯 EXTRA PRACTICE TASKS:
 • Je Lis: 0s
-• Money Game: 22s   4 ✅   0 ❌
+• Money Game: 9s   1 ✅   0 ❌
 • Duological: 0s   0 ✅   0 ❌
 • Translation: 0s   0 ✅   0 ❌
 • French Stories: 0s   0 ✅   0 ❌
@@ -49,7 +50,7 @@ Here's BM's learning progress report for today:
 • Algebra: 0s   0 ✅   0 ❌
 • Times Tables: 0s   0 ✅   0 ❌
 • Time Telling: 0s   0 ✅   0 ❌
-• Money Game: 15s   2 ✅   0 ❌
+• Money Game: 0s   0 ✅   0 ❌
 
 🎮 BONUS TASKS:
 • Bluey: 0s
@@ -68,7 +69,7 @@ Here's BM's learning progress report for today:
 
 
 🏆 ACHIEVEMENTS:
-📈 Making progress! Try completing a few more tasks.
+💪 Every bit of progress counts! Keep trying!
 
 💡 Consider encouraging more learning time for better outcomes.
 
