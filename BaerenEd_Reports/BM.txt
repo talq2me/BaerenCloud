@@ -6,34 +6,35 @@ Dear Parent/Guardian,
 
 Here's BM's learning progress report for today:
 
-🎮 Reward Time Earned: 1 minutes
+🎮 Reward Time Earned: 30 minutes
 
 
 🎯 OVERALL PROGRESS:
-• Completion Rate: 56.3%
-• Stars Earned: 18/32
-• Total Learning Time: 21 minutes
-• Games Played: 6
+• Completion Rate: 37.5%
+• Stars Earned: 12/32
+• Total Learning Time: 6 minutes
+• Games Played: 13
 • Videos Watched: 0
-• Questions Answered:   73✅   17❌
-• Web Games Played: 4
-• Required Tasks Incomplete: 6
+• Questions Answered:   29✅   2❌
+• Web Games Played: 1
+• Web Pages Visited: 6
+• Required Tasks Incomplete: 8
 
 ✅ COMPLETED REQUIRED TASKS:
-• Translation: 1m15s   7 ✅   9 ❌
-• French Stories: 1m24s   5 ✅   4 ❌
-• Congugation: 1m1s   7 ✅   3 ❌
-• Times Tables: 41s   11 ✅   0 ❌
-• Fr Spelling: 3m11s   15 ✅   1 ❌
-• Mixed Math: 46s   5 ✅   0 ❌
+• Translation: 1m9s   7 ✅   1 ❌
+• French Stories: 36s   5 ✅   0 ❌
+• Congugation: 55s   7 ✅   1 ❌
+• Je Lis: 1m32s
 
 ⏳ INCOMPLETE REQUIRED TASKS:
 • Google Read Along: 0s   0 ✅   0 ❌
+• Times Tables: 3s   0 ✅   0 ❌
 • Eng Spelling: 0s   0 ✅   0 ❌
+• Fr Spelling: 0s   0 ✅   0 ❌
 • Kung Fu Form: 0s
 • Kung Fu: 0s
-• Je Lis: 0s
-• Google Classroom: 0s
+• Mixed Math: 0s   0 ✅   0 ❌
+• Google Classroom: 1m2s
 • ✓ French Reading
 • ✓ Laundry
 • ✓ Practice Kung Fu
@@ -41,8 +42,8 @@ Here's BM's learning progress report for today:
 • ✓ Practice piano
 
 🎯 EXTRA PRACTICE TASKS:
-• Je Lis: 0s
-• Money Game: 7s   1 ✅   0 ❌
+• Je Lis: 9s
+• Money Game: 52s   10 ✅   0 ❌
 • Duological: 0s   0 ✅   0 ❌
 • Translation: 0s   0 ✅   0 ❌
 • French Stories: 0s   0 ✅   0 ❌
@@ -51,9 +52,9 @@ Here's BM's learning progress report for today:
 • Math: 0s   0 ✅   0 ❌
 • Mixed Math: 0s   0 ✅   0 ❌
 • Math Word Problems: 0s   0 ✅   0 ❌
-• Algebra: 6s   1 ✅   0 ❌
-• Times Tables: 47s   11 ✅   0 ❌
-• Time Telling: 12m34s   10 ✅   0 ❌
+• Algebra: 0s   0 ✅   0 ❌
+• Times Tables: 0s   0 ✅   0 ❌
+• Time Telling: 0s   0 ✅   0 ❌
 • Money Game: 0s   0 ✅   0 ❌
 
 🎮 BONUS TASKS:
@@ -73,7 +74,7 @@ Here's BM's learning progress report for today:
 
 
 🏆 ACHIEVEMENTS:
-📈 Making progress! Try completing a few more tasks.
+💪 Every bit of progress counts! Keep trying!
 
 💡 Consider encouraging more learning time for better outcomes.
 
