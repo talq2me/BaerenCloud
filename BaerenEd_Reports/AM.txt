@@ -10,14 +10,14 @@ Here's AM's learning progress report for today:
 
 
 🎯 OVERALL PROGRESS:
-• Completion Rate: 67.9%
-• Stars Earned: 38/56
+• Completion Rate: 73.2%
+• Stars Earned: 41/56
 • Total Learning Time: 10 minutes
-• Games Played: 5
+• Games Played: 6
 • Videos Watched: 3
-• Questions Answered:   38✅   3❌
+• Questions Answered:   43✅   3❌
 • Web Games Played: 2
-• Required Tasks Incomplete: 6
+• Required Tasks Incomplete: 5
 
 ✅ COMPLETED REQUIRED TASKS:
 • French Sounds: 1m15s   10 ✅   0 ❌
@@ -26,6 +26,7 @@ Here's AM's learning progress report for today:
 • Sk Spellings: 51s   5 ✅   1 ❌
 • Time Telling: 2m23s   10 ✅   1 ❌
 • Handwriting: 4s   0 ✅   0 ❌
+• Money Game: 28s   5 ✅   0 ❌
 • Sentence Builder: 56s   3 ✅   0 ❌
 • Kung Fu Form: 1m1s
 • Kung Fu: 1m1s
@@ -40,7 +41,6 @@ Here's AM's learning progress report for today:
 ⏳ INCOMPLETE REQUIRED TASKS:
 • Google Read Along: 0s   0 ✅   0 ❌
 • French Vowels: 0s   0 ✅   0 ❌
-• Money Game: 0s   0 ✅   0 ❌
 • UFLI Words: 0s   0 ✅   0 ❌
 • Ufli Home Videos: 0s
 • French UFLI: 0s
