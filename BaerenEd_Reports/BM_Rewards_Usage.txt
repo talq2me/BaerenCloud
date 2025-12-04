@@ -2,240 +2,37 @@
 ==================================================
 Date: December 04, 2025
 
-Rewards used for period: December 04, 2025 at 17:28 - December 04, 2025 at 17:42
+Rewards used for period: December 04, 2025 at 17:49 - December 04, 2025 at 17:53
 ==================================================
-Total Reward Time: 13m 45s
+Total Reward Time: 4m 1s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 6
+Total Apps Used: 3
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 13m 34s (98.7%)
-2. System UI: 7s (0.8%)
-3. BaerenLock: 3s (0.4%)
-4. Clock style: 1s (0.1%)
-5. BaerenEd: 0s (0.0%)
-6. One UI Home: 0s (0.0%)
+1. Netflix: 3m 58s (98.8%)
+2. BaerenLock: 3s (1.2%)
+3. BaerenEd: 0s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
-Session 1: BaerenLock
-  Time: 17:28:44 - 17:28:45
+Session 1: BaerenEd
+  Time: 17:49:14 - 17:49:14
   Duration: 0s
 
-Session 2: BaerenEd
-  Time: 17:28:45 - 17:28:45
-  Duration: 0s
-
-Session 3: BaerenLock
-  Time: 17:28:45 - 17:28:46
-  Duration: 1s
-
-Session 4: Netflix
-  Time: 17:28:46 - 17:28:47
-  Duration: 0s
-
-Session 5: BaerenLock
-  Time: 17:28:47 - 17:28:49
-  Duration: 2s
-
-Session 6: Netflix
-  Time: 17:28:49 - 17:28:49
-  Duration: 0s
-
-Session 7: BaerenLock
-  Time: 17:28:49 - 17:28:49
-  Duration: 0s
-
-Session 8: Netflix
-  Time: 17:28:49 - 17:29:00
-  Duration: 10s
-
-Session 9: System UI
-  Time: 17:29:00 - 17:29:00
-  Duration: 0s
-
-Session 10: Netflix
-  Time: 17:29:00 - 17:29:00
-  Duration: 0s
-
-Session 11: System UI
-  Time: 17:29:00 - 17:29:00
-  Duration: 0s
-
-Session 12: Netflix
-  Time: 17:29:00 - 17:29:43
-  Duration: 42s
-
-Session 13: System UI
-  Time: 17:29:43 - 17:29:43
-  Duration: 0s
-
-Session 14: Netflix
-  Time: 17:29:43 - 17:29:43
-  Duration: 0s
-
-Session 15: System UI
-  Time: 17:29:43 - 17:29:45
-  Duration: 1s
-
-Session 16: Netflix
-  Time: 17:29:45 - 17:31:46
-  Duration: 2m 0s
-
-Session 17: System UI
-  Time: 17:31:46 - 17:31:47
-  Duration: 0s
-
-Session 18: One UI Home
-  Time: 17:31:47 - 17:31:47
-  Duration: 0s
-
-Session 19: System UI
-  Time: 17:31:47 - 17:31:48
-  Duration: 0s
-
-Session 20: Netflix
-  Time: 17:31:48 - 17:31:48
-  Duration: 0s
-
-Session 21: System UI
-  Time: 17:31:48 - 17:31:50
-  Duration: 1s
-
-Session 22: Netflix
-  Time: 17:31:50 - 17:31:50
-  Duration: 0s
-
-Session 23: System UI
-  Time: 17:31:50 - 17:31:52
-  Duration: 1s
-
-Session 24: Netflix
-  Time: 17:31:52 - 17:31:55
+Session 2: BaerenLock
+  Time: 17:49:14 - 17:49:18
   Duration: 3s
 
-Session 25: System UI
-  Time: 17:31:55 - 17:31:56
-  Duration: 0s
-
-Session 26: Netflix
-  Time: 17:31:56 - 17:31:57
-  Duration: 1s
-
-Session 27: System UI
-  Time: 17:31:57 - 17:31:58
-  Duration: 0s
-
-Session 28: Netflix
-  Time: 17:31:58 - 17:31:58
-  Duration: 0s
-
-Session 29: System UI
-  Time: 17:31:58 - 17:32:00
-  Duration: 1s
-
-Session 30: Netflix
-  Time: 17:32:00 - 17:32:00
-  Duration: 0s
-
-Session 31: System UI
-  Time: 17:32:00 - 17:32:01
-  Duration: 0s
-
-Session 32: Clock style
-  Time: 17:32:01 - 17:32:02
-  Duration: 1s
-
-Session 33: System UI
-  Time: 17:32:02 - 17:32:02
-  Duration: 0s
-
-Session 34: Netflix
-  Time: 17:32:02 - 17:32:02
-  Duration: 0s
-
-Session 35: Clock style
-  Time: 17:32:02 - 17:32:02
-  Duration: 0s
-
-Session 36: System UI
-  Time: 17:32:02 - 17:32:02
-  Duration: 0s
-
-Session 37: Clock style
-  Time: 17:32:02 - 17:32:02
-  Duration: 0s
-
-Session 38: System UI
-  Time: 17:32:02 - 17:32:02
-  Duration: 0s
-
-Session 39: Clock style
-  Time: 17:32:02 - 17:32:03
-  Duration: 0s
-
-Session 40: System UI
-  Time: 17:32:03 - 17:32:04
-  Duration: 1s
-
-Session 41: Netflix
-  Time: 17:32:04 - 17:32:04
-  Duration: 0s
-
-Session 42: System UI
-  Time: 17:32:04 - 17:32:06
-  Duration: 1s
-
-Session 43: Netflix
-  Time: 17:32:06 - 17:32:06
-  Duration: 0s
-
-Session 44: System UI
-  Time: 17:32:06 - 17:32:07
-  Duration: 1s
-
-Session 45: Netflix
-  Time: 17:32:07 - 17:32:07
-  Duration: 0s
-
-Session 46: System UI
-  Time: 17:32:07 - 17:32:08
-  Duration: 0s
-
-Session 47: Netflix
-  Time: 17:32:08 - 17:32:08
-  Duration: 0s
-
-Session 48: System UI
-  Time: 17:32:08 - 17:32:08
-  Duration: 0s
-
-Session 49: Netflix
-  Time: 17:32:08 - 17:32:08
-  Duration: 0s
-
-Session 50: System UI
-  Time: 17:32:08 - 17:32:08
-  Duration: 0s
-
-Session 51: Netflix
-  Time: 17:32:08 - 17:32:08
-  Duration: 0s
-
-Session 52: System UI
-  Time: 17:32:08 - 17:32:08
-  Duration: 0s
-
-Session 53: Netflix
-  Time: 17:32:08 - 17:42:46
-  Duration: 10m 38s
+Session 3: Netflix
+  Time: 17:49:18 - 17:53:16
+  Duration: 3m 58s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 13m 45s
-Number of apps used: 6
-Average time per app: 2m 17s
+Total reward time used: 4m 1s
+Number of apps used: 3
+Average time per app: 1m 20s
 
