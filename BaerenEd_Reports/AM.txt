@@ -10,18 +10,20 @@ Here's AM's learning progress report for today:
 
 
 🎯 OVERALL PROGRESS:
-• Completion Rate: 11.3%
-• Stars Earned: 6/53
-• Total Learning Time: 1 minutes
+• Completion Rate: 22.6%
+• Stars Earned: 12/53
+• Total Learning Time: 2 minutes
 • Games Played: 1
-• Videos Watched: 0
+• Videos Watched: 1
 • Questions Answered:   5✅   0❌
 • Web Games Played: 1
-• Required Tasks Incomplete: 14
+• Required Tasks Incomplete: 12
 
 ✅ COMPLETED REQUIRED TASKS:
 • Math: 41s   5 ✅   0 ❌
 • Handwriting: 39s   0 ✅   0 ❌
+• Kung Fu Form: 1m3s
+• Kung Fu: 1m3s
 
 ⏳ INCOMPLETE REQUIRED TASKS:
 • Google Read Along: 0s   0 ✅   0 ❌
@@ -32,8 +34,6 @@ Here's AM's learning progress report for today:
 • Money Game: 0s   0 ✅   0 ❌
 • Sentence Builder: 0s   0 ✅   0 ❌
 • UFLI Words: 0s   0 ✅   0 ❌
-• Kung Fu Form: 0s
-• Kung Fu: 0s
 • Facile A Lire 1: 0s
 • Facile A Lire 2: 0s
 • Ufli Home Videos: 0s
