@@ -2,9 +2,9 @@
 ==================================================
 Date: December 05, 2025
 
-Rewards used for period: December 05, 2025 at 08:07 - December 05, 2025 at 08:09
+Rewards used for period: December 05, 2025 at 08:10 - December 05, 2025 at 08:14
 ==================================================
-Total Reward Time: 1m 58s
+Total Reward Time: 4m 0s
 
 📱 APP USAGE SUMMARY
 ------------------------------
@@ -12,30 +12,30 @@ Total Apps Used: 2
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 1m 56s (98.3%)
-2. BaerenLock: 2s (1.7%)
+1. Netflix: 3m 58s (99.2%)
+2. BaerenLock: 2s (0.8%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 08:07:05 - 08:07:08
+  Time: 08:10:01 - 08:10:03
   Duration: 2s
 
 Session 2: Netflix
-  Time: 08:07:08 - 08:07:08
+  Time: 08:10:03 - 08:10:03
   Duration: 0s
 
 Session 3: BaerenLock
-  Time: 08:07:08 - 08:07:08
+  Time: 08:10:03 - 08:10:03
   Duration: 0s
 
 Session 4: Netflix
-  Time: 08:07:08 - 08:09:05
-  Duration: 1m 56s
+  Time: 08:10:03 - 08:14:02
+  Duration: 3m 58s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 1m 58s
+Total reward time used: 4m 0s
 Number of apps used: 2
-Average time per app: 59s
+Average time per app: 2m 0s
 
