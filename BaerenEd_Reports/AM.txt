@@ -12,11 +12,11 @@ Here's AM's learning progress report for today:
 🎯 OVERALL PROGRESS:
 • Completion Rate: 73.2%
 • Stars Earned: 41/56
-• Total Learning Time: 23 minutes
+• Total Learning Time: 24 minutes
 • Games Played: 7
 • Videos Watched: 2
-• Questions Answered:   99✅   22❌
-• Web Games Played: 10
+• Questions Answered:   107✅   23❌
+• Web Games Played: 11
 • Required Tasks Incomplete: 5
 
 ✅ COMPLETED REQUIRED TASKS:
@@ -49,7 +49,7 @@ Here's AM's learning progress report for today:
 • Sight Words: 0s   0 ✅   0 ❌
 • Math: 8s   1 ✅   0 ❌
 • Sk Spellings: 0s   0 ✅   0 ❌
-• French Vowels: 2m32s   40 ✅   6 ❌
+• French Vowels: 3m20s   48 ✅   7 ❌
 • Time Telling: 0s   0 ✅   0 ❌
 • Money Game: 0s   0 ✅   0 ❌
 • Sentence Builder: 0s   0 ✅   0 ❌
