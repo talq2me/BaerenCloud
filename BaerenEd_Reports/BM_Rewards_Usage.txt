@@ -2,40 +2,93 @@
 ==================================================
 Date: December 07, 2025
 
-Rewards used for period: December 07, 2025 at 15:53 - December 07, 2025 at 16:22
+Rewards used for period: December 07, 2025 at 16:45 - December 07, 2025 at 17:44
 ==================================================
-Total Reward Time: 29m 1s
+Total Reward Time: 58m 56s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 2
+Total Apps Used: 3
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 28m 58s (99.8%)
-2. BaerenLock: 3s (0.2%)
+1. Netflix: 58m 52s (99.9%)
+2. BaerenLock: 3s (0.1%)
+3. System UI: 1s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 15:53:41 - 15:53:43
-  Duration: 2s
+  Time: 16:45:15 - 16:45:16
+  Duration: 1s
 
-Session 2: Netflix
-  Time: 15:53:43 - 15:53:43
+Session 2: System UI
+  Time: 16:45:16 - 16:45:16
   Duration: 0s
 
 Session 3: BaerenLock
-  Time: 15:53:43 - 15:53:44
-  Duration: 1s
+  Time: 16:45:16 - 16:45:19
+  Duration: 2s
 
 Session 4: Netflix
-  Time: 15:53:44 - 16:22:43
-  Duration: 28m 58s
+  Time: 16:45:19 - 16:45:19
+  Duration: 0s
+
+Session 5: BaerenLock
+  Time: 16:45:19 - 16:45:19
+  Duration: 0s
+
+Session 6: System UI
+  Time: 16:45:19 - 16:45:21
+  Duration: 1s
+
+Session 7: Netflix
+  Time: 16:45:21 - 16:45:21
+  Duration: 0s
+
+Session 8: BaerenLock
+  Time: 16:45:21 - 16:45:21
+  Duration: 0s
+
+Session 9: Netflix
+  Time: 16:45:21 - 16:45:22
+  Duration: 0s
+
+Session 10: System UI
+  Time: 16:45:22 - 16:45:22
+  Duration: 0s
+
+Session 11: Netflix
+  Time: 16:45:22 - 16:45:22
+  Duration: 0s
+
+Session 12: System UI
+  Time: 16:45:22 - 16:45:23
+  Duration: 0s
+
+Session 13: Netflix
+  Time: 16:45:23 - 17:38:50
+  Duration: 53m 27s
+
+Session 14: System UI
+  Time: 17:38:50 - 17:38:50
+  Duration: 0s
+
+Session 15: Netflix
+  Time: 17:38:50 - 17:39:00
+  Duration: 9s
+
+Session 16: System UI
+  Time: 17:39:00 - 17:39:00
+  Duration: 0s
+
+Session 17: Netflix
+  Time: 17:39:00 - 17:44:16
+  Duration: 5m 16s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 29m 1s
-Number of apps used: 2
-Average time per app: 14m 30s
+Total reward time used: 58m 56s
+Number of apps used: 3
+Average time per app: 19m 38s
 
