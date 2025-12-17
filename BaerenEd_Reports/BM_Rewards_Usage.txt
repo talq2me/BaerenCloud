@@ -1,307 +1,1289 @@
 🎮 REWARD TIME USAGE REPORT - BM
 ==================================================
-Date: December 08, 2025
+Date: December 17, 2025
 
-Rewards used for period: December 08, 2025 at 16:57 - December 08, 2025 at 18:13
+Rewards used for period: December 16, 2025 at 16:38 - December 17, 2025 at 08:02
 ==================================================
-Total Reward Time: 75m 50s
+Total Reward Time: 922m 52s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 4
+Total Apps Used: 6
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 71m 35s (94.4%)
-2. System UI: 3m 57s (5.2%)
-3. BaerenLock: 12s (0.3%)
-4. Clock style: 6s (0.1%)
+1. System UI: 853m 46s (92.5%)
+2. BaerenEd: 37m 36s (4.1%)
+3. Netflix: 30m 4s (3.3%)
+4. Clock style: 1m 4s (0.1%)
+5. BaerenLock: 21s (0.0%)
+6. One UI Home: 1s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 16:57:22 - 16:57:34
-  Duration: 11s
+  Time: 16:38:27 - 16:38:32
+  Duration: 4s
 
 Session 2: Netflix
-  Time: 16:57:34 - 16:57:35
-  Duration: 0s
+  Time: 16:38:32 - 16:38:33
+  Duration: 1s
 
 Session 3: BaerenLock
-  Time: 16:57:35 - 16:57:36
-  Duration: 1s
+  Time: 16:38:33 - 16:38:34
+  Duration: 0s
 
 Session 4: Netflix
-  Time: 16:57:36 - 16:58:00
-  Duration: 23s
+  Time: 16:38:34 - 16:38:40
+  Duration: 6s
 
 Session 5: System UI
-  Time: 16:58:00 - 16:58:01
-  Duration: 1s
+  Time: 16:38:40 - 16:38:40
+  Duration: 0s
 
 Session 6: Netflix
-  Time: 16:58:01 - 16:58:15
-  Duration: 14s
+  Time: 16:38:40 - 16:38:40
+  Duration: 0s
 
 Session 7: System UI
-  Time: 16:58:15 - 16:58:15
+  Time: 16:38:40 - 16:38:40
   Duration: 0s
 
 Session 8: Netflix
-  Time: 16:58:15 - 16:59:00
-  Duration: 44s
+  Time: 16:38:40 - 16:38:40
+  Duration: 0s
 
 Session 9: System UI
-  Time: 16:59:00 - 16:59:01
-  Duration: 1s
+  Time: 16:38:40 - 16:38:40
+  Duration: 0s
 
 Session 10: Netflix
-  Time: 16:59:01 - 16:59:19
-  Duration: 17s
+  Time: 16:38:40 - 16:38:40
+  Duration: 0s
 
 Session 11: System UI
-  Time: 16:59:19 - 16:59:19
+  Time: 16:38:40 - 16:38:40
   Duration: 0s
 
 Session 12: Netflix
-  Time: 16:59:19 - 17:00:00
-  Duration: 40s
+  Time: 16:38:40 - 16:38:40
+  Duration: 0s
 
 Session 13: System UI
-  Time: 17:00:00 - 17:00:01
-  Duration: 1s
+  Time: 16:38:40 - 16:38:40
+  Duration: 0s
 
 Session 14: Netflix
-  Time: 17:00:01 - 17:02:32
-  Duration: 2m 31s
+  Time: 16:38:40 - 16:38:41
+  Duration: 0s
 
 Session 15: System UI
-  Time: 17:02:32 - 17:02:34
-  Duration: 1s
+  Time: 16:38:41 - 16:38:41
+  Duration: 0s
 
 Session 16: Netflix
-  Time: 17:02:34 - 17:05:19
-  Duration: 2m 44s
+  Time: 16:38:41 - 16:38:41
+  Duration: 0s
 
 Session 17: System UI
-  Time: 17:05:19 - 17:05:19
+  Time: 16:38:41 - 16:38:41
   Duration: 0s
 
 Session 18: Netflix
-  Time: 17:05:19 - 17:05:19
+  Time: 16:38:41 - 16:38:41
   Duration: 0s
 
 Session 19: System UI
-  Time: 17:05:19 - 17:05:21
-  Duration: 1s
+  Time: 16:38:41 - 16:38:41
+  Duration: 0s
 
 Session 20: Netflix
-  Time: 17:05:21 - 17:14:30
-  Duration: 9m 9s
+  Time: 16:38:41 - 16:38:41
+  Duration: 0s
 
 Session 21: System UI
-  Time: 17:14:30 - 17:14:32
-  Duration: 1s
+  Time: 16:38:41 - 16:38:41
+  Duration: 0s
 
 Session 22: Netflix
-  Time: 17:14:32 - 17:14:35
-  Duration: 3s
+  Time: 16:38:41 - 16:38:42
+  Duration: 1s
 
 Session 23: System UI
-  Time: 17:14:35 - 17:14:36
+  Time: 16:38:42 - 16:38:42
   Duration: 0s
 
 Session 24: Netflix
-  Time: 17:14:36 - 17:14:36
+  Time: 16:38:42 - 16:38:42
   Duration: 0s
 
 Session 25: System UI
-  Time: 17:14:36 - 17:14:38
-  Duration: 1s
+  Time: 16:38:42 - 16:38:42
+  Duration: 0s
 
 Session 26: Netflix
-  Time: 17:14:38 - 17:17:30
-  Duration: 2m 52s
+  Time: 16:38:42 - 16:38:42
+  Duration: 0s
 
 Session 27: System UI
-  Time: 17:17:30 - 17:17:36
-  Duration: 5s
-
-Session 28: Clock style
-  Time: 17:17:36 - 17:17:36
+  Time: 16:38:42 - 16:38:42
   Duration: 0s
 
-Session 29: System UI
-  Time: 17:17:36 - 17:17:36
+Session 28: Netflix
+  Time: 16:38:42 - 16:45:59
+  Duration: 7m 16s
+
+Session 29: BaerenLock
+  Time: 16:45:59 - 16:46:01
+  Duration: 2s
+
+Session 30: System UI
+  Time: 16:46:01 - 16:46:02
   Duration: 0s
 
-Session 30: Clock style
-  Time: 17:17:36 - 17:17:36
-  Duration: 0s
+Session 31: BaerenLock
+  Time: 16:46:02 - 16:46:10
+  Duration: 7s
 
-Session 31: System UI
-  Time: 17:17:36 - 17:17:37
-  Duration: 0s
-
-Session 32: Clock style
-  Time: 17:17:37 - 17:17:37
-  Duration: 0s
+Session 32: BaerenEd
+  Time: 16:46:10 - 16:47:00
+  Duration: 50s
 
 Session 33: System UI
-  Time: 17:17:37 - 17:17:37
-  Duration: 0s
+  Time: 16:47:00 - 16:47:01
+  Duration: 1s
 
-Session 34: Clock style
-  Time: 17:17:37 - 17:17:37
-  Duration: 0s
+Session 34: BaerenEd
+  Time: 16:47:01 - 16:47:58
+  Duration: 57s
 
 Session 35: System UI
-  Time: 17:17:37 - 17:18:35
-  Duration: 57s
-
-Session 36: Clock style
-  Time: 17:18:35 - 17:18:35
+  Time: 16:47:58 - 16:47:58
   Duration: 0s
+
+Session 36: BaerenEd
+  Time: 16:47:58 - 16:48:00
+  Duration: 1s
 
 Session 37: System UI
-  Time: 17:18:35 - 17:18:35
+  Time: 16:48:00 - 16:48:00
   Duration: 0s
 
-Session 38: Clock style
-  Time: 17:18:35 - 17:18:35
-  Duration: 0s
+Session 38: BaerenEd
+  Time: 16:48:00 - 16:48:10
+  Duration: 9s
 
-Session 39: System UI
-  Time: 17:18:35 - 17:18:36
-  Duration: 0s
+Session 39: One UI Home
+  Time: 16:48:10 - 16:48:12
+  Duration: 1s
 
-Session 40: Clock style
-  Time: 17:18:36 - 17:18:36
-  Duration: 0s
+Session 40: BaerenEd
+  Time: 16:48:12 - 16:48:17
+  Duration: 5s
 
-Session 41: System UI
-  Time: 17:18:36 - 17:18:36
-  Duration: 0s
+Session 41: BaerenLock
+  Time: 16:48:17 - 16:48:20
+  Duration: 3s
 
-Session 42: Clock style
-  Time: 17:18:36 - 17:18:36
-  Duration: 0s
+Session 42: BaerenEd
+  Time: 16:48:20 - 16:48:32
+  Duration: 11s
 
-Session 43: System UI
-  Time: 17:18:36 - 17:19:34
-  Duration: 57s
+Session 43: BaerenLock
+  Time: 16:48:32 - 16:48:34
+  Duration: 1s
 
-Session 44: Clock style
-  Time: 17:19:34 - 17:19:34
-  Duration: 0s
+Session 44: BaerenEd
+  Time: 16:48:34 - 16:49:00
+  Duration: 25s
 
 Session 45: System UI
-  Time: 17:19:34 - 17:19:34
-  Duration: 0s
+  Time: 16:49:00 - 16:49:01
+  Duration: 1s
 
-Session 46: Clock style
-  Time: 17:19:34 - 17:19:34
-  Duration: 0s
+Session 46: BaerenEd
+  Time: 16:49:01 - 16:50:00
+  Duration: 58s
 
 Session 47: System UI
-  Time: 17:19:34 - 17:19:34
+  Time: 16:50:00 - 16:50:00
   Duration: 0s
 
-Session 48: Clock style
-  Time: 17:19:34 - 17:19:41
-  Duration: 6s
+Session 48: BaerenEd
+  Time: 16:50:00 - 16:50:00
+  Duration: 0s
 
 Session 49: System UI
-  Time: 17:19:41 - 17:20:33
-  Duration: 51s
+  Time: 16:50:00 - 16:50:02
+  Duration: 1s
 
-Session 50: Clock style
-  Time: 17:20:33 - 17:20:33
-  Duration: 0s
+Session 50: BaerenEd
+  Time: 16:50:02 - 16:51:00
+  Duration: 57s
 
 Session 51: System UI
-  Time: 17:20:33 - 17:20:33
+  Time: 16:51:00 - 16:51:00
   Duration: 0s
 
-Session 52: Clock style
-  Time: 17:20:33 - 17:20:33
-  Duration: 0s
+Session 52: BaerenEd
+  Time: 16:51:00 - 16:52:00
+  Duration: 59s
 
 Session 53: System UI
-  Time: 17:20:33 - 17:20:34
+  Time: 16:52:00 - 16:52:00
   Duration: 0s
 
-Session 54: Clock style
-  Time: 17:20:34 - 17:20:34
-  Duration: 0s
+Session 54: BaerenEd
+  Time: 16:52:00 - 16:53:00
+  Duration: 59s
 
 Session 55: System UI
-  Time: 17:20:34 - 17:20:34
-  Duration: 0s
+  Time: 16:53:00 - 16:53:01
+  Duration: 1s
 
-Session 56: Clock style
-  Time: 17:20:34 - 17:20:34
-  Duration: 0s
+Session 56: BaerenEd
+  Time: 16:53:01 - 16:54:00
+  Duration: 58s
 
 Session 57: System UI
-  Time: 17:20:34 - 17:21:30
-  Duration: 56s
+  Time: 16:54:00 - 16:54:01
+  Duration: 1s
 
-Session 58: Clock style
-  Time: 17:21:30 - 17:21:30
-  Duration: 0s
+Session 58: BaerenEd
+  Time: 16:54:01 - 16:54:34
+  Duration: 33s
 
 Session 59: System UI
-  Time: 17:21:30 - 17:21:31
+  Time: 16:54:34 - 16:54:35
   Duration: 0s
 
-Session 60: Clock style
-  Time: 17:21:31 - 17:21:31
-  Duration: 0s
+Session 60: BaerenEd
+  Time: 16:54:35 - 16:55:00
+  Duration: 24s
 
 Session 61: System UI
-  Time: 17:21:31 - 17:21:31
-  Duration: 0s
+  Time: 16:55:00 - 16:55:01
+  Duration: 1s
 
-Session 62: Clock style
-  Time: 17:21:31 - 17:21:31
-  Duration: 0s
+Session 62: BaerenEd
+  Time: 16:55:01 - 16:56:00
+  Duration: 58s
 
 Session 63: System UI
-  Time: 17:21:31 - 17:21:32
-  Duration: 0s
+  Time: 16:56:00 - 16:56:02
+  Duration: 1s
 
-Session 64: Clock style
-  Time: 17:21:32 - 17:21:32
-  Duration: 0s
+Session 64: BaerenEd
+  Time: 16:56:02 - 16:57:00
+  Duration: 58s
 
 Session 65: System UI
-  Time: 17:21:32 - 17:21:36
-  Duration: 4s
-
-Session 66: Netflix
-  Time: 17:21:36 - 17:21:36
+  Time: 16:57:00 - 16:57:00
   Duration: 0s
+
+Session 66: BaerenEd
+  Time: 16:57:00 - 16:57:03
+  Duration: 3s
 
 Session 67: System UI
-  Time: 17:21:36 - 17:21:36
+  Time: 16:57:03 - 16:57:04
   Duration: 0s
 
-Session 68: Netflix
-  Time: 17:21:36 - 17:44:43
-  Duration: 23m 6s
+Session 68: BaerenEd
+  Time: 16:57:04 - 16:58:00
+  Duration: 55s
 
 Session 69: System UI
-  Time: 17:44:43 - 17:44:43
+  Time: 16:58:00 - 16:58:00
   Duration: 0s
 
-Session 70: Netflix
-  Time: 17:44:43 - 18:13:36
-  Duration: 28m 52s
+Session 70: BaerenEd
+  Time: 16:58:00 - 16:59:00
+  Duration: 59s
+
+Session 71: System UI
+  Time: 16:59:00 - 16:59:00
+  Duration: 0s
+
+Session 72: BaerenEd
+  Time: 16:59:00 - 17:00:00
+  Duration: 59s
+
+Session 73: System UI
+  Time: 17:00:00 - 17:00:01
+  Duration: 1s
+
+Session 74: BaerenEd
+  Time: 17:00:01 - 17:01:00
+  Duration: 58s
+
+Session 75: System UI
+  Time: 17:01:00 - 17:01:01
+  Duration: 1s
+
+Session 76: BaerenEd
+  Time: 17:01:01 - 17:02:00
+  Duration: 58s
+
+Session 77: System UI
+  Time: 17:02:00 - 17:02:01
+  Duration: 1s
+
+Session 78: BaerenEd
+  Time: 17:02:01 - 17:03:00
+  Duration: 58s
+
+Session 79: System UI
+  Time: 17:03:00 - 17:03:02
+  Duration: 1s
+
+Session 80: BaerenEd
+  Time: 17:03:02 - 17:03:41
+  Duration: 39s
+
+Session 81: System UI
+  Time: 17:03:41 - 17:03:42
+  Duration: 0s
+
+Session 82: BaerenEd
+  Time: 17:03:42 - 17:03:42
+  Duration: 0s
+
+Session 83: System UI
+  Time: 17:03:42 - 17:03:42
+  Duration: 0s
+
+Session 84: BaerenEd
+  Time: 17:03:42 - 17:03:44
+  Duration: 2s
+
+Session 85: System UI
+  Time: 17:03:44 - 17:03:45
+  Duration: 0s
+
+Session 86: BaerenEd
+  Time: 17:03:45 - 17:03:45
+  Duration: 0s
+
+Session 87: System UI
+  Time: 17:03:45 - 17:03:45
+  Duration: 0s
+
+Session 88: BaerenEd
+  Time: 17:03:45 - 17:03:45
+  Duration: 0s
+
+Session 89: System UI
+  Time: 17:03:45 - 17:03:45
+  Duration: 0s
+
+Session 90: BaerenEd
+  Time: 17:03:45 - 17:04:00
+  Duration: 14s
+
+Session 91: System UI
+  Time: 17:04:00 - 17:04:00
+  Duration: 0s
+
+Session 92: BaerenEd
+  Time: 17:04:00 - 17:05:00
+  Duration: 59s
+
+Session 93: System UI
+  Time: 17:05:00 - 17:22:32
+  Duration: 17m 32s
+
+Session 94: BaerenEd
+  Time: 17:22:32 - 17:23:00
+  Duration: 27s
+
+Session 95: System UI
+  Time: 17:23:00 - 17:27:16
+  Duration: 4m 16s
+
+Session 96: BaerenEd
+  Time: 17:27:16 - 17:27:49
+  Duration: 32s
+
+Session 97: System UI
+  Time: 17:27:49 - 17:27:49
+  Duration: 0s
+
+Session 98: BaerenEd
+  Time: 17:27:49 - 17:27:50
+  Duration: 0s
+
+Session 99: System UI
+  Time: 17:27:50 - 17:27:51
+  Duration: 1s
+
+Session 100: BaerenEd
+  Time: 17:27:51 - 17:27:51
+  Duration: 0s
+
+Session 101: System UI
+  Time: 17:27:51 - 17:27:54
+  Duration: 2s
+
+Session 102: BaerenEd
+  Time: 17:27:54 - 17:28:07
+  Duration: 12s
+
+Session 103: System UI
+  Time: 17:28:07 - 17:28:16
+  Duration: 9s
+
+Session 104: BaerenEd
+  Time: 17:28:16 - 17:28:18
+  Duration: 2s
+
+Session 105: Clock style
+  Time: 17:28:18 - 17:28:18
+  Duration: 0s
+
+Session 106: System UI
+  Time: 17:28:18 - 17:28:18
+  Duration: 0s
+
+Session 107: Clock style
+  Time: 17:28:18 - 17:28:39
+  Duration: 21s
+
+Session 108: System UI
+  Time: 17:28:39 - 17:28:40
+  Duration: 0s
+
+Session 109: BaerenEd
+  Time: 17:28:40 - 17:29:06
+  Duration: 25s
+
+Session 110: System UI
+  Time: 17:29:06 - 17:29:08
+  Duration: 1s
+
+Session 111: BaerenEd
+  Time: 17:29:08 - 17:29:28
+  Duration: 20s
+
+Session 112: System UI
+  Time: 17:29:28 - 17:29:29
+  Duration: 0s
+
+Session 113: BaerenEd
+  Time: 17:29:29 - 17:29:30
+  Duration: 1s
+
+Session 114: System UI
+  Time: 17:29:30 - 17:29:31
+  Duration: 0s
+
+Session 115: BaerenEd
+  Time: 17:29:31 - 17:29:31
+  Duration: 0s
+
+Session 116: System UI
+  Time: 17:29:31 - 17:29:33
+  Duration: 1s
+
+Session 117: BaerenEd
+  Time: 17:29:33 - 17:29:35
+  Duration: 2s
+
+Session 118: System UI
+  Time: 17:29:35 - 17:29:37
+  Duration: 2s
+
+Session 119: BaerenEd
+  Time: 17:29:37 - 17:29:49
+  Duration: 11s
+
+Session 120: System UI
+  Time: 17:29:49 - 17:29:50
+  Duration: 1s
+
+Session 121: BaerenEd
+  Time: 17:29:50 - 17:29:50
+  Duration: 0s
+
+Session 122: System UI
+  Time: 17:29:50 - 17:29:52
+  Duration: 1s
+
+Session 123: BaerenEd
+  Time: 17:29:52 - 17:29:54
+  Duration: 1s
+
+Session 124: System UI
+  Time: 17:29:54 - 17:29:54
+  Duration: 0s
+
+Session 125: BaerenEd
+  Time: 17:29:54 - 17:29:55
+  Duration: 0s
+
+Session 126: System UI
+  Time: 17:29:55 - 17:29:56
+  Duration: 1s
+
+Session 127: BaerenEd
+  Time: 17:29:56 - 17:30:07
+  Duration: 10s
+
+Session 128: System UI
+  Time: 17:30:07 - 17:30:08
+  Duration: 1s
+
+Session 129: BaerenEd
+  Time: 17:30:08 - 17:31:57
+  Duration: 1m 48s
+
+Session 130: System UI
+  Time: 17:31:57 - 17:32:33
+  Duration: 36s
+
+Session 131: BaerenEd
+  Time: 17:32:33 - 17:33:04
+  Duration: 31s
+
+Session 132: System UI
+  Time: 17:33:04 - 17:33:30
+  Duration: 25s
+
+Session 133: BaerenEd
+  Time: 17:33:30 - 17:34:03
+  Duration: 33s
+
+Session 134: System UI
+  Time: 17:34:03 - 17:34:04
+  Duration: 0s
+
+Session 135: BaerenEd
+  Time: 17:34:04 - 17:35:01
+  Duration: 57s
+
+Session 136: System UI
+  Time: 17:35:01 - 17:35:04
+  Duration: 3s
+
+Session 137: BaerenEd
+  Time: 17:35:04 - 17:36:53
+  Duration: 1m 49s
+
+Session 138: System UI
+  Time: 17:36:53 - 17:37:04
+  Duration: 10s
+
+Session 139: BaerenEd
+  Time: 17:37:04 - 17:37:58
+  Duration: 54s
+
+Session 140: System UI
+  Time: 17:37:58 - 17:37:59
+  Duration: 0s
+
+Session 141: BaerenEd
+  Time: 17:37:59 - 17:38:26
+  Duration: 26s
+
+Session 142: System UI
+  Time: 17:38:26 - 17:38:26
+  Duration: 0s
+
+Session 143: BaerenEd
+  Time: 17:38:26 - 17:42:01
+  Duration: 3m 34s
+
+Session 144: System UI
+  Time: 17:42:01 - 17:42:01
+  Duration: 0s
+
+Session 145: BaerenEd
+  Time: 17:42:01 - 17:44:36
+  Duration: 2m 34s
+
+Session 146: System UI
+  Time: 17:44:36 - 18:00:40
+  Duration: 16m 4s
+
+Session 147: Clock style
+  Time: 18:00:40 - 18:00:40
+  Duration: 0s
+
+Session 148: System UI
+  Time: 18:00:40 - 18:00:40
+  Duration: 0s
+
+Session 149: Clock style
+  Time: 18:00:40 - 18:01:20
+  Duration: 40s
+
+Session 150: System UI
+  Time: 18:01:20 - 18:10:09
+  Duration: 8m 48s
+
+Session 151: Clock style
+  Time: 18:10:09 - 18:10:10
+  Duration: 0s
+
+Session 152: System UI
+  Time: 18:10:10 - 18:10:12
+  Duration: 1s
+
+Session 153: Clock style
+  Time: 18:10:12 - 18:10:12
+  Duration: 0s
+
+Session 154: System UI
+  Time: 18:10:12 - 18:10:12
+  Duration: 0s
+
+Session 155: Clock style
+  Time: 18:10:12 - 18:10:12
+  Duration: 0s
+
+Session 156: System UI
+  Time: 18:10:12 - 18:10:19
+  Duration: 6s
+
+Session 157: Clock style
+  Time: 18:10:19 - 18:10:19
+  Duration: 0s
+
+Session 158: System UI
+  Time: 18:10:19 - 18:51:05
+  Duration: 40m 45s
+
+Session 159: Clock style
+  Time: 18:51:05 - 18:51:05
+  Duration: 0s
+
+Session 160: System UI
+  Time: 18:51:05 - 18:51:05
+  Duration: 0s
+
+Session 161: Clock style
+  Time: 18:51:05 - 18:51:05
+  Duration: 0s
+
+Session 162: System UI
+  Time: 18:51:05 - 18:51:06
+  Duration: 0s
+
+Session 163: Clock style
+  Time: 18:51:06 - 18:51:06
+  Duration: 0s
+
+Session 164: System UI
+  Time: 18:51:06 - 19:12:03
+  Duration: 20m 57s
+
+Session 165: Clock style
+  Time: 19:12:03 - 19:12:04
+  Duration: 0s
+
+Session 166: System UI
+  Time: 19:12:04 - 19:27:43
+  Duration: 15m 38s
+
+Session 167: Clock style
+  Time: 19:27:43 - 19:27:43
+  Duration: 0s
+
+Session 168: System UI
+  Time: 19:27:43 - 19:27:43
+  Duration: 0s
+
+Session 169: Clock style
+  Time: 19:27:43 - 19:27:43
+  Duration: 0s
+
+Session 170: System UI
+  Time: 19:27:43 - 19:27:43
+  Duration: 0s
+
+Session 171: Clock style
+  Time: 19:27:43 - 19:27:43
+  Duration: 0s
+
+Session 172: System UI
+  Time: 19:27:43 - 20:34:53
+  Duration: 67m 10s
+
+Session 173: Clock style
+  Time: 20:34:53 - 20:34:53
+  Duration: 0s
+
+Session 174: System UI
+  Time: 20:34:53 - 20:34:53
+  Duration: 0s
+
+Session 175: Clock style
+  Time: 20:34:53 - 20:34:54
+  Duration: 0s
+
+Session 176: System UI
+  Time: 20:34:54 - 20:34:54
+  Duration: 0s
+
+Session 177: Clock style
+  Time: 20:34:54 - 20:34:54
+  Duration: 0s
+
+Session 178: System UI
+  Time: 20:34:54 - 20:35:06
+  Duration: 12s
+
+Session 179: Clock style
+  Time: 20:35:06 - 20:35:07
+  Duration: 0s
+
+Session 180: System UI
+  Time: 20:35:07 - 20:35:07
+  Duration: 0s
+
+Session 181: Clock style
+  Time: 20:35:07 - 20:35:07
+  Duration: 0s
+
+Session 182: System UI
+  Time: 20:35:07 - 20:35:08
+  Duration: 0s
+
+Session 183: Clock style
+  Time: 20:35:08 - 20:35:08
+  Duration: 0s
+
+Session 184: System UI
+  Time: 20:35:08 - 20:35:08
+  Duration: 0s
+
+Session 185: Clock style
+  Time: 20:35:08 - 20:35:08
+  Duration: 0s
+
+Session 186: System UI
+  Time: 20:35:08 - 20:35:10
+  Duration: 2s
+
+Session 187: Clock style
+  Time: 20:35:10 - 20:35:10
+  Duration: 0s
+
+Session 188: System UI
+  Time: 20:35:10 - 20:35:10
+  Duration: 0s
+
+Session 189: Clock style
+  Time: 20:35:10 - 20:35:10
+  Duration: 0s
+
+Session 190: System UI
+  Time: 20:35:10 - 20:41:48
+  Duration: 6m 37s
+
+Session 191: Clock style
+  Time: 20:41:48 - 20:41:48
+  Duration: 0s
+
+Session 192: System UI
+  Time: 20:41:48 - 20:41:48
+  Duration: 0s
+
+Session 193: Clock style
+  Time: 20:41:48 - 20:41:48
+  Duration: 0s
+
+Session 194: System UI
+  Time: 20:41:48 - 20:41:49
+  Duration: 0s
+
+Session 195: Clock style
+  Time: 20:41:49 - 20:41:49
+  Duration: 0s
+
+Session 196: System UI
+  Time: 20:41:49 - 20:41:49
+  Duration: 0s
+
+Session 197: Clock style
+  Time: 20:41:49 - 20:41:49
+  Duration: 0s
+
+Session 198: System UI
+  Time: 20:41:49 - 20:41:49
+  Duration: 0s
+
+Session 199: Clock style
+  Time: 20:41:49 - 20:41:50
+  Duration: 0s
+
+Session 200: System UI
+  Time: 20:41:50 - 20:48:59
+  Duration: 7m 9s
+
+Session 201: Clock style
+  Time: 20:48:59 - 20:48:59
+  Duration: 0s
+
+Session 202: System UI
+  Time: 20:48:59 - 20:48:59
+  Duration: 0s
+
+Session 203: Clock style
+  Time: 20:48:59 - 20:48:59
+  Duration: 0s
+
+Session 204: System UI
+  Time: 20:48:59 - 20:49:04
+  Duration: 4s
+
+Session 205: Clock style
+  Time: 20:49:04 - 20:49:04
+  Duration: 0s
+
+Session 206: System UI
+  Time: 20:49:04 - 20:49:04
+  Duration: 0s
+
+Session 207: Clock style
+  Time: 20:49:04 - 20:49:04
+  Duration: 0s
+
+Session 208: System UI
+  Time: 20:49:04 - 20:51:05
+  Duration: 2m 0s
+
+Session 209: Clock style
+  Time: 20:51:05 - 20:51:05
+  Duration: 0s
+
+Session 210: System UI
+  Time: 20:51:05 - 20:58:03
+  Duration: 6m 57s
+
+Session 211: Clock style
+  Time: 20:58:03 - 20:58:03
+  Duration: 0s
+
+Session 212: System UI
+  Time: 20:58:03 - 20:58:03
+  Duration: 0s
+
+Session 213: Clock style
+  Time: 20:58:03 - 20:58:03
+  Duration: 0s
+
+Session 214: System UI
+  Time: 20:58:03 - 20:58:04
+  Duration: 1s
+
+Session 215: Clock style
+  Time: 20:58:04 - 20:58:04
+  Duration: 0s
+
+Session 216: System UI
+  Time: 20:58:04 - 20:58:05
+  Duration: 0s
+
+Session 217: Clock style
+  Time: 20:58:05 - 20:58:05
+  Duration: 0s
+
+Session 218: System UI
+  Time: 20:58:05 - 21:04:17
+  Duration: 6m 12s
+
+Session 219: Clock style
+  Time: 21:04:17 - 21:04:17
+  Duration: 0s
+
+Session 220: System UI
+  Time: 21:04:17 - 21:09:40
+  Duration: 5m 22s
+
+Session 221: Clock style
+  Time: 21:09:40 - 21:09:40
+  Duration: 0s
+
+Session 222: System UI
+  Time: 21:09:40 - 21:09:40
+  Duration: 0s
+
+Session 223: Clock style
+  Time: 21:09:40 - 21:09:41
+  Duration: 0s
+
+Session 224: System UI
+  Time: 21:09:41 - 21:24:35
+  Duration: 14m 54s
+
+Session 225: Clock style
+  Time: 21:24:35 - 21:24:35
+  Duration: 0s
+
+Session 226: System UI
+  Time: 21:24:35 - 21:25:21
+  Duration: 46s
+
+Session 227: Clock style
+  Time: 21:25:21 - 21:25:21
+  Duration: 0s
+
+Session 228: System UI
+  Time: 21:25:21 - 21:25:21
+  Duration: 0s
+
+Session 229: Clock style
+  Time: 21:25:21 - 21:25:21
+  Duration: 0s
+
+Session 230: System UI
+  Time: 21:25:21 - 21:36:16
+  Duration: 10m 54s
+
+Session 231: Clock style
+  Time: 21:36:16 - 21:36:16
+  Duration: 0s
+
+Session 232: System UI
+  Time: 21:36:16 - 21:36:16
+  Duration: 0s
+
+Session 233: Clock style
+  Time: 21:36:16 - 21:36:16
+  Duration: 0s
+
+Session 234: System UI
+  Time: 21:36:16 - 21:36:21
+  Duration: 4s
+
+Session 235: Clock style
+  Time: 21:36:21 - 21:36:21
+  Duration: 0s
+
+Session 236: System UI
+  Time: 21:36:21 - 21:36:21
+  Duration: 0s
+
+Session 237: Clock style
+  Time: 21:36:21 - 21:36:25
+  Duration: 3s
+
+Session 238: System UI
+  Time: 21:36:25 - 21:37:20
+  Duration: 55s
+
+Session 239: Clock style
+  Time: 21:37:20 - 21:37:21
+  Duration: 0s
+
+Session 240: System UI
+  Time: 21:37:21 - 21:37:21
+  Duration: 0s
+
+Session 241: Clock style
+  Time: 21:37:21 - 21:37:21
+  Duration: 0s
+
+Session 242: System UI
+  Time: 21:37:21 - 21:37:21
+  Duration: 0s
+
+Session 243: Clock style
+  Time: 21:37:21 - 21:37:21
+  Duration: 0s
+
+Session 244: System UI
+  Time: 21:37:21 - 21:38:26
+  Duration: 1m 5s
+
+Session 245: Clock style
+  Time: 21:38:26 - 21:38:27
+  Duration: 0s
+
+Session 246: System UI
+  Time: 21:38:27 - 21:38:27
+  Duration: 0s
+
+Session 247: Clock style
+  Time: 21:38:27 - 21:38:27
+  Duration: 0s
+
+Session 248: System UI
+  Time: 21:38:27 - 21:39:31
+  Duration: 1m 4s
+
+Session 249: Clock style
+  Time: 21:39:31 - 21:39:32
+  Duration: 0s
+
+Session 250: System UI
+  Time: 21:39:32 - 21:39:32
+  Duration: 0s
+
+Session 251: Clock style
+  Time: 21:39:32 - 21:39:32
+  Duration: 0s
+
+Session 252: System UI
+  Time: 21:39:32 - 21:39:32
+  Duration: 0s
+
+Session 253: Clock style
+  Time: 21:39:32 - 21:39:32
+  Duration: 0s
+
+Session 254: System UI
+  Time: 21:39:32 - 21:40:18
+  Duration: 46s
+
+Session 255: Clock style
+  Time: 21:40:18 - 21:40:18
+  Duration: 0s
+
+Session 256: System UI
+  Time: 21:40:18 - 21:40:36
+  Duration: 18s
+
+Session 257: Clock style
+  Time: 21:40:36 - 21:40:36
+  Duration: 0s
+
+Session 258: System UI
+  Time: 21:40:36 - 21:40:37
+  Duration: 0s
+
+Session 259: Clock style
+  Time: 21:40:37 - 21:40:37
+  Duration: 0s
+
+Session 260: System UI
+  Time: 21:40:37 - 21:40:37
+  Duration: 0s
+
+Session 261: Clock style
+  Time: 21:40:37 - 21:40:37
+  Duration: 0s
+
+Session 262: System UI
+  Time: 21:40:37 - 21:42:48
+  Duration: 2m 11s
+
+Session 263: Clock style
+  Time: 21:42:48 - 21:42:48
+  Duration: 0s
+
+Session 264: System UI
+  Time: 21:42:48 - 21:42:48
+  Duration: 0s
+
+Session 265: Clock style
+  Time: 21:42:48 - 21:42:49
+  Duration: 0s
+
+Session 266: System UI
+  Time: 21:42:49 - 21:43:57
+  Duration: 1m 8s
+
+Session 267: Clock style
+  Time: 21:43:57 - 21:43:57
+  Duration: 0s
+
+Session 268: System UI
+  Time: 21:43:57 - 21:43:57
+  Duration: 0s
+
+Session 269: Clock style
+  Time: 21:43:57 - 21:43:57
+  Duration: 0s
+
+Session 270: System UI
+  Time: 21:43:57 - 21:45:02
+  Duration: 1m 5s
+
+Session 271: Clock style
+  Time: 21:45:02 - 21:45:03
+  Duration: 0s
+
+Session 272: System UI
+  Time: 21:45:03 - 21:45:03
+  Duration: 0s
+
+Session 273: Clock style
+  Time: 21:45:03 - 21:45:03
+  Duration: 0s
+
+Session 274: System UI
+  Time: 21:45:03 - 21:49:17
+  Duration: 4m 14s
+
+Session 275: Clock style
+  Time: 21:49:17 - 21:49:17
+  Duration: 0s
+
+Session 276: System UI
+  Time: 21:49:17 - 21:49:17
+  Duration: 0s
+
+Session 277: Clock style
+  Time: 21:49:17 - 21:49:17
+  Duration: 0s
+
+Session 278: System UI
+  Time: 21:49:17 - 21:49:17
+  Duration: 0s
+
+Session 279: Clock style
+  Time: 21:49:17 - 21:49:18
+  Duration: 0s
+
+Session 280: System UI
+  Time: 21:49:18 - 07:36:02
+  Duration: 586m 44s
+
+Session 281: BaerenEd
+  Time: 07:36:02 - 07:36:02
+  Duration: 0s
+
+Session 282: System UI
+  Time: 07:36:02 - 07:36:03
+  Duration: 0s
+
+Session 283: BaerenEd
+  Time: 07:36:03 - 07:36:03
+  Duration: 0s
+
+Session 284: System UI
+  Time: 07:36:03 - 07:36:03
+  Duration: 0s
+
+Session 285: BaerenEd
+  Time: 07:36:03 - 07:36:03
+  Duration: 0s
+
+Session 286: System UI
+  Time: 07:36:03 - 07:36:03
+  Duration: 0s
+
+Session 287: BaerenEd
+  Time: 07:36:03 - 07:36:03
+  Duration: 0s
+
+Session 288: System UI
+  Time: 07:36:03 - 07:36:03
+  Duration: 0s
+
+Session 289: BaerenEd
+  Time: 07:36:03 - 07:37:00
+  Duration: 56s
+
+Session 290: System UI
+  Time: 07:37:00 - 07:37:00
+  Duration: 0s
+
+Session 291: BaerenEd
+  Time: 07:37:00 - 07:38:00
+  Duration: 59s
+
+Session 292: System UI
+  Time: 07:38:00 - 07:38:00
+  Duration: 0s
+
+Session 293: BaerenEd
+  Time: 07:38:00 - 07:38:00
+  Duration: 0s
+
+Session 294: System UI
+  Time: 07:38:00 - 07:38:00
+  Duration: 0s
+
+Session 295: BaerenEd
+  Time: 07:38:00 - 07:39:00
+  Duration: 59s
+
+Session 296: System UI
+  Time: 07:39:00 - 07:39:00
+  Duration: 0s
+
+Session 297: BaerenEd
+  Time: 07:39:00 - 07:40:00
+  Duration: 59s
+
+Session 298: System UI
+  Time: 07:40:00 - 07:40:00
+  Duration: 0s
+
+Session 299: BaerenEd
+  Time: 07:40:00 - 07:40:08
+  Duration: 8s
+
+Session 300: BaerenLock
+  Time: 07:40:08 - 07:40:12
+  Duration: 4s
+
+Session 301: Netflix
+  Time: 07:40:12 - 07:40:12
+  Duration: 0s
+
+Session 302: BaerenLock
+  Time: 07:40:12 - 07:40:13
+  Duration: 0s
+
+Session 303: Netflix
+  Time: 07:40:13 - 07:40:25
+  Duration: 12s
+
+Session 304: System UI
+  Time: 07:40:25 - 07:40:25
+  Duration: 0s
+
+Session 305: Netflix
+  Time: 07:40:25 - 07:40:26
+  Duration: 0s
+
+Session 306: System UI
+  Time: 07:40:26 - 07:40:26
+  Duration: 0s
+
+Session 307: Netflix
+  Time: 07:40:26 - 07:40:27
+  Duration: 0s
+
+Session 308: System UI
+  Time: 07:40:27 - 07:40:27
+  Duration: 0s
+
+Session 309: Netflix
+  Time: 07:40:27 - 07:40:28
+  Duration: 0s
+
+Session 310: System UI
+  Time: 07:40:28 - 07:40:28
+  Duration: 0s
+
+Session 311: Netflix
+  Time: 07:40:28 - 07:40:29
+  Duration: 0s
+
+Session 312: System UI
+  Time: 07:40:29 - 07:40:29
+  Duration: 0s
+
+Session 313: Netflix
+  Time: 07:40:29 - 07:40:31
+  Duration: 1s
+
+Session 314: System UI
+  Time: 07:40:31 - 07:40:31
+  Duration: 0s
+
+Session 315: Netflix
+  Time: 07:40:31 - 08:02:59
+  Duration: 22m 27s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 75m 50s
-Number of apps used: 4
-Average time per app: 18m 57s
+Total reward time used: 922m 52s
+Number of apps used: 6
+Average time per app: 153m 48s
 
