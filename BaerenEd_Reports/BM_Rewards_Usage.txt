@@ -2,49 +2,100 @@
 ==================================================
 Date: December 20, 2025
 
-Rewards used for period: December 20, 2025 at 09:31 - December 20, 2025 at 09:35
+Rewards used for period: December 20, 2025 at 09:38 - December 20, 2025 at 09:42
 ==================================================
-Total Reward Time: 4m 0s
+Total Reward Time: 3m 58s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 3
+Total Apps Used: 6
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 3m 56s (98.3%)
-2. BaerenLock: 3s (1.3%)
-3. System UI: 1s (0.4%)
+1. Netflix: 3m 33s (89.5%)
+2. Samsung Internet: 14s (5.9%)
+3. BaerenLock: 7s (2.9%)
+4. One UI Home: 3s (1.3%)
+5. System UI: 1s (0.4%)
+6. BaerenEd: 0s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
-Session 1: BaerenLock
-  Time: 09:31:02 - 09:31:04
-  Duration: 2s
-
-Session 2: Netflix
-  Time: 09:31:04 - 09:31:04
+Session 1: BaerenEd
+  Time: 09:38:11 - 09:38:12
   Duration: 0s
 
-Session 3: BaerenLock
-  Time: 09:31:04 - 09:31:06
+Session 2: BaerenLock
+  Time: 09:38:12 - 09:38:14
+  Duration: 2s
+
+Session 3: Netflix
+  Time: 09:38:14 - 09:38:15
+  Duration: 0s
+
+Session 4: BaerenLock
+  Time: 09:38:15 - 09:38:15
+  Duration: 0s
+
+Session 5: Netflix
+  Time: 09:38:15 - 09:39:00
+  Duration: 45s
+
+Session 6: System UI
+  Time: 09:39:00 - 09:39:01
   Duration: 1s
 
-Session 4: Netflix
-  Time: 09:31:06 - 09:31:17
-  Duration: 11s
+Session 7: Netflix
+  Time: 09:39:01 - 09:39:07
+  Duration: 6s
 
-Session 5: System UI
-  Time: 09:31:17 - 09:31:19
+Session 8: Samsung Internet
+  Time: 09:39:07 - 09:39:21
+  Duration: 14s
+
+Session 9: BaerenLock
+  Time: 09:39:21 - 09:39:23
   Duration: 1s
 
-Session 6: Netflix
-  Time: 09:31:19 - 09:35:04
-  Duration: 3m 45s
+Session 10: Samsung Internet
+  Time: 09:39:23 - 09:39:23
+  Duration: 0s
+
+Session 11: BaerenLock
+  Time: 09:39:23 - 09:39:26
+  Duration: 3s
+
+Session 12: One UI Home
+  Time: 09:39:26 - 09:39:30
+  Duration: 3s
+
+Session 13: BaerenLock
+  Time: 09:39:30 - 09:39:31
+  Duration: 1s
+
+Session 14: Netflix
+  Time: 09:39:31 - 09:39:31
+  Duration: 0s
+
+Session 15: BaerenLock
+  Time: 09:39:31 - 09:39:31
+  Duration: 0s
+
+Session 16: Netflix
+  Time: 09:39:31 - 09:39:40
+  Duration: 9s
+
+Session 17: System UI
+  Time: 09:39:40 - 09:39:40
+  Duration: 0s
+
+Session 18: Netflix
+  Time: 09:39:40 - 09:42:14
+  Duration: 2m 33s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 4m 0s
-Number of apps used: 3
-Average time per app: 1m 20s
+Total reward time used: 3m 58s
+Number of apps used: 6
+Average time per app: 39s
 
