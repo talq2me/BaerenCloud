@@ -2,40 +2,81 @@
 ==================================================
 Date: December 20, 2025
 
-Rewards used for period: December 20, 2025 at 08:52 - December 20, 2025 at 08:56
+Rewards used for period: December 20, 2025 at 09:24 - December 20, 2025 at 09:28
 ==================================================
-Total Reward Time: 4m 0s
+Total Reward Time: 3m 55s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 2
+Total Apps Used: 3
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 3m 57s (98.8%)
-2. BaerenLock: 3s (1.3%)
+1. Netflix: 3m 51s (98.3%)
+2. BaerenLock: 4s (1.7%)
+3. System UI: 0s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 08:52:23 - 08:52:25
-  Duration: 2s
+  Time: 09:24:13 - 09:24:17
+  Duration: 4s
 
 Session 2: Netflix
-  Time: 08:52:25 - 08:52:25
+  Time: 09:24:17 - 09:24:17
   Duration: 0s
 
 Session 3: BaerenLock
-  Time: 08:52:25 - 08:52:26
-  Duration: 1s
+  Time: 09:24:17 - 09:24:18
+  Duration: 0s
 
 Session 4: Netflix
-  Time: 08:52:26 - 08:56:24
-  Duration: 3m 57s
+  Time: 09:24:18 - 09:24:29
+  Duration: 11s
+
+Session 5: System UI
+  Time: 09:24:29 - 09:24:29
+  Duration: 0s
+
+Session 6: Netflix
+  Time: 09:24:29 - 09:24:29
+  Duration: 0s
+
+Session 7: System UI
+  Time: 09:24:29 - 09:24:29
+  Duration: 0s
+
+Session 8: Netflix
+  Time: 09:24:29 - 09:24:29
+  Duration: 0s
+
+Session 9: System UI
+  Time: 09:24:29 - 09:24:30
+  Duration: 0s
+
+Session 10: Netflix
+  Time: 09:24:30 - 09:24:30
+  Duration: 0s
+
+Session 11: System UI
+  Time: 09:24:30 - 09:24:31
+  Duration: 0s
+
+Session 12: Netflix
+  Time: 09:24:31 - 09:25:44
+  Duration: 1m 13s
+
+Session 13: System UI
+  Time: 09:25:44 - 09:25:45
+  Duration: 0s
+
+Session 14: Netflix
+  Time: 09:25:45 - 09:28:13
+  Duration: 2m 27s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 4m 0s
-Number of apps used: 2
-Average time per app: 2m 0s
+Total reward time used: 3m 55s
+Number of apps used: 3
+Average time per app: 1m 18s
 
