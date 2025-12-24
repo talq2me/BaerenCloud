@@ -1,6 +1,6 @@
-Daily Progress Report - BM - 2025-12-22
+Daily Progress Report - BM - 2025-12-24
 
-📊 DAILY PROGRESS REPORT - 2025-12-22
+📊 DAILY PROGRESS REPORT - 2025-12-24
 
 Dear Parent/Guardian,
 
@@ -10,29 +10,28 @@ Here's BM's learning progress report for today:
 
 
 🎯 OVERALL PROGRESS:
-• Completion Rate: 55.2%
-• Stars Earned: 16/29
-• Total Learning Time: 9 minutes
-• Games Played: 7
-• Videos Watched: 7
-• Questions Answered:   55✅   4❌
-• Web Games Played: 3
+• Completion Rate: 50.0%
+• Stars Earned: 13/26
+• Total Learning Time: 14 minutes
+• Games Played: 12
+• Videos Watched: 4
+• Questions Answered:   73✅   8❌
+• Web Games Played: 4
 • Required Tasks Incomplete: 5
 
 ✅ COMPLETED REQUIRED TASKS:
 • Translation: 54s   7 ✅   0 ❌
-• French Stories: 42s   5 ✅   1 ❌
-• Congugation: 48s   7 ✅   0 ❌
-• Times Tables: 58s   11 ✅   0 ❌
-• Kung Fu Form: 1m7s
-• Math: 1m36s   5 ✅   3 ❌
+• French Stories: 43s   5 ✅   0 ❌
+• Congugation: 1m41s   7 ✅   1 ❌
+• Times Tables: 1m57s   9 ✅   2 ❌
+• Kung Fu Form: 2m17s
 
 ⏳ INCOMPLETE REQUIRED TASKS:
 • Multi-Digit Add/Subtract: 0s   0 ✅   0 ❌
 • Math Hole: 1s   0 ✅   0 ❌
 • Snake Catch: 0s   0 ✅   0 ❌
 • Eng Spelling: 0s   0 ✅   0 ❌
-• Kung Fu: 1m43s
+• Kung Fu: 0s
 • ✓ French Reading
 • ✓ Laundry
 • ✓ Practice Kung Fu
@@ -47,13 +46,13 @@ Here's BM's learning progress report for today:
 • Spelling Race: 0s   0 ✅   0 ❌
 • Potion Maker: 0s   0 ✅   0 ❌
 • Character Trait Hunter: 0s   0 ✅   0 ❌
-• What Happens Next?: 21s   5 ✅   0 ❌
+• What Happens Next?: 0s   0 ✅   0 ❌
 • Recipe Builder: 0s   0 ✅   0 ❌
 • Treasure Map Quest: 0s   0 ✅   0 ❌
 • Word Building Blocks: 0s   0 ✅   0 ❌
 • Word Puzzle Adventure: 0s   0 ✅   0 ❌
 • Word Factory: 0s   0 ✅   0 ❌
-• Money Game: 1m10s   15 ✅   0 ❌
+• Money Game: 5m24s   45 ✅   5 ❌
 • Duological: 0s   0 ✅   0 ❌
 • Translation: 0s   0 ✅   0 ❌
 • French Stories: 0s   0 ✅   0 ❌
