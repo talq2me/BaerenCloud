@@ -6,17 +6,17 @@ Dear Parent/Guardian,
 
 Here's BM's learning progress report for today:
 
-🎮 Reward Time Earned: 50 minutes
+🎮 Reward Time Earned: 30 minutes
 
 
 🎯 OVERALL PROGRESS:
 • Completion Rate: 51.4%
 • Stars Earned: 18/35
-• Total Learning Time: 19 minutes
+• Total Learning Time: 21 minutes
 • Games Played: 3
 • Videos Watched: 0
-• Questions Answered:   36✅   18❌
-• Web Games Played: 8
+• Questions Answered:   44✅   40❌
+• Web Games Played: 14
 • Web Pages Visited: 3
 • Required Tasks Incomplete: 7
 
@@ -50,7 +50,7 @@ Here's BM's learning progress report for today:
 • Spelling Race: 0s   0 ✅   0 ❌
 • Potion Maker: 0s   0 ✅   0 ❌
 • Character Trait Hunter: 0s   0 ✅   0 ❌
-• What Happens Next?: 1m16s   6 ✅   14 ❌
+• What Happens Next?: 3m28s   14 ✅   36 ❌
 • Recipe Builder: 0s   0 ✅   0 ❌
 • Treasure Map Quest: 0s   0 ✅   0 ❌
 • Word Building Blocks: 0s   0 ✅   0 ❌
