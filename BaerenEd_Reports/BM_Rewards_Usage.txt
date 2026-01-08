@@ -2,9 +2,9 @@
 ==================================================
 Date: January 08, 2026
 
-Rewards used for period: January 08, 2026 at 07:35 - January 08, 2026 at 07:54
+Rewards used for period: January 08, 2026 at 17:47 - January 08, 2026 at 17:58
 ==================================================
-Total Reward Time: 19m 2s
+Total Reward Time: 10m 53s
 
 📱 APP USAGE SUMMARY
 ------------------------------
@@ -12,43 +12,71 @@ Total Apps Used: 3
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 18m 57s (99.6%)
-2. BaerenLock: 5s (0.4%)
-3. BaerenEd: 0s (0.0%)
+1. Netflix: 10m 43s (98.5%)
+2. BaerenLock: 7s (1.1%)
+3. System UI: 3s (0.5%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
-Session 1: BaerenEd
-  Time: 07:35:21 - 07:35:21
-  Duration: 0s
+Session 1: BaerenLock
+  Time: 17:47:54 - 17:48:00
+  Duration: 6s
 
-Session 2: BaerenLock
-  Time: 07:35:21 - 07:35:22
+Session 2: Netflix
+  Time: 17:48:00 - 17:48:02
   Duration: 1s
 
-Session 3: BaerenEd
-  Time: 07:35:22 - 07:35:22
+Session 3: BaerenLock
+  Time: 17:48:02 - 17:48:03
+  Duration: 1s
+
+Session 4: Netflix
+  Time: 17:48:03 - 17:48:04
   Duration: 0s
 
-Session 4: BaerenLock
-  Time: 07:35:22 - 07:35:27
-  Duration: 4s
-
-Session 5: Netflix
-  Time: 07:35:27 - 07:35:27
+Session 5: BaerenLock
+  Time: 17:48:04 - 17:48:04
   Duration: 0s
 
-Session 6: BaerenLock
-  Time: 07:35:27 - 07:35:27
+Session 6: Netflix
+  Time: 17:48:04 - 17:48:36
+  Duration: 32s
+
+Session 7: System UI
+  Time: 17:48:36 - 17:48:38
+  Duration: 1s
+
+Session 8: Netflix
+  Time: 17:48:38 - 17:50:10
+  Duration: 1m 32s
+
+Session 9: System UI
+  Time: 17:50:10 - 17:50:10
   Duration: 0s
 
-Session 7: Netflix
-  Time: 07:35:27 - 07:54:24
-  Duration: 18m 57s
+Session 10: Netflix
+  Time: 17:50:10 - 17:50:24
+  Duration: 14s
+
+Session 11: System UI
+  Time: 17:50:24 - 17:50:26
+  Duration: 1s
+
+Session 12: Netflix
+  Time: 17:50:26 - 17:50:34
+  Duration: 8s
+
+Session 13: System UI
+  Time: 17:50:34 - 17:50:36
+  Duration: 1s
+
+Session 14: Netflix
+  Time: 17:50:36 - 17:58:52
+  Duration: 8m 16s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 19m 2s
+Total reward time used: 10m 53s
 Number of apps used: 3
-Average time per app: 6m 20s
+Average time per app: 3m 37s
 
