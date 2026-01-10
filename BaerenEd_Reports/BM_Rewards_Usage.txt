@@ -1,331 +1,49 @@
 🎮 REWARD TIME USAGE REPORT - BM
 ==================================================
-Date: January 09, 2026
+Date: January 10, 2026
 
-Rewards used for period: January 09, 2026 at 17:03 - January 09, 2026 at 18:46
+Rewards used for period: January 10, 2026 at 18:09 - January 10, 2026 at 18:55
 ==================================================
-Total Reward Time: 101m 28s
+Total Reward Time: 46m 17s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 8
+Total Apps Used: 2
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. System UI: 59m 23s (58.5%)
-2. BaerenLock: 17m 52s (17.6%)
-3. Netflix: 16m 45s (16.5%)
-4. BaerenEd: 4m 50s (4.8%)
-5. Chrome: 1m 44s (1.7%)
-6. Boukili: 50s (0.8%)
-7. Settings: 3s (0.0%)
-8. Gboard: 1s (0.0%)
+1. Netflix: 46m 14s (99.9%)
+2. BaerenLock: 3s (0.1%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
-Session 1: Settings
-  Time: 17:04:11 - 17:04:12
-  Duration: 0s
-
-Session 2: System UI
-  Time: 17:04:12 - 17:04:13
+Session 1: BaerenLock
+  Time: 18:09:20 - 18:09:21
   Duration: 1s
 
-Session 3: Settings
-  Time: 17:04:13 - 17:04:17
-  Duration: 3s
-
-Session 4: BaerenLock
-  Time: 17:04:17 - 17:04:18
+Session 2: Netflix
+  Time: 18:09:21 - 18:09:23
   Duration: 1s
 
-Session 5: System UI
-  Time: 17:04:18 - 17:04:19
-  Duration: 0s
-
-Session 6: BaerenLock
-  Time: 17:04:19 - 17:04:20
-  Duration: 1s
-
-Session 7: Boukili
-  Time: 17:04:20 - 17:04:21
-  Duration: 1s
-
-Session 8: BaerenLock
-  Time: 17:04:21 - 17:04:22
-  Duration: 0s
-
-Session 9: Boukili
-  Time: 17:04:22 - 17:04:23
-  Duration: 1s
-
-Session 10: BaerenLock
-  Time: 17:04:23 - 17:04:24
-  Duration: 0s
-
-Session 11: Boukili
-  Time: 17:04:24 - 17:05:12
-  Duration: 48s
-
-Session 12: BaerenLock
-  Time: 17:05:12 - 17:05:17
-  Duration: 4s
-
-Session 13: Gboard
-  Time: 17:05:17 - 17:05:18
-  Duration: 1s
-
-Session 14: BaerenLock
-  Time: 17:05:18 - 17:06:07
-  Duration: 49s
-
-Session 15: System UI
-  Time: 17:06:07 - 17:06:08
-  Duration: 0s
-
-Session 16: BaerenLock
-  Time: 17:06:08 - 17:07:12
-  Duration: 1m 3s
-
-Session 17: System UI
-  Time: 17:07:12 - 17:07:12
-  Duration: 0s
-
-Session 18: BaerenLock
-  Time: 17:07:12 - 17:07:30
-  Duration: 17s
-
-Session 19: System UI
-  Time: 17:07:30 - 17:07:30
-  Duration: 0s
-
-Session 20: BaerenLock
-  Time: 17:07:30 - 17:07:57
-  Duration: 27s
-
-Session 21: System UI
-  Time: 17:07:57 - 17:07:58
-  Duration: 0s
-
-Session 22: BaerenLock
-  Time: 17:07:58 - 17:09:58
-  Duration: 1m 59s
-
-Session 23: System UI
-  Time: 17:09:58 - 17:09:58
-  Duration: 0s
-
-Session 24: BaerenLock
-  Time: 17:09:58 - 17:10:23
-  Duration: 24s
-
-Session 25: System UI
-  Time: 17:10:23 - 17:10:24
-  Duration: 1s
-
-Session 26: BaerenLock
-  Time: 17:10:24 - 17:13:34
-  Duration: 3m 9s
-
-Session 27: System UI
-  Time: 17:13:34 - 17:13:35
-  Duration: 0s
-
-Session 28: BaerenLock
-  Time: 17:13:35 - 17:15:52
-  Duration: 2m 17s
-
-Session 29: System UI
-  Time: 17:15:52 - 17:15:53
-  Duration: 1s
-
-Session 30: BaerenLock
-  Time: 17:15:53 - 17:16:35
-  Duration: 41s
-
-Session 31: System UI
-  Time: 17:16:35 - 17:16:35
-  Duration: 0s
-
-Session 32: BaerenLock
-  Time: 17:16:35 - 17:19:35
-  Duration: 3m 0s
-
-Session 33: System UI
-  Time: 17:19:35 - 17:19:36
-  Duration: 0s
-
-Session 34: BaerenLock
-  Time: 17:19:36 - 17:22:36
-  Duration: 3m 0s
-
-Session 35: System UI
-  Time: 17:22:36 - 18:21:55
-  Duration: 59m 19s
-
-Session 36: BaerenLock
-  Time: 18:21:55 - 18:21:55
-  Duration: 0s
-
-Session 37: System UI
-  Time: 18:21:55 - 18:21:55
-  Duration: 0s
-
-Session 38: BaerenLock
-  Time: 18:21:55 - 18:22:10
-  Duration: 14s
-
-Session 39: BaerenEd
-  Time: 18:22:10 - 18:22:10
-  Duration: 0s
-
-Session 40: BaerenLock
-  Time: 18:22:10 - 18:22:10
-  Duration: 0s
-
-Session 41: BaerenEd
-  Time: 18:22:10 - 18:23:27
-  Duration: 1m 16s
-
-Session 42: System UI
-  Time: 18:23:27 - 18:23:28
-  Duration: 1s
-
-Session 43: BaerenEd
-  Time: 18:23:28 - 18:23:28
-  Duration: 0s
-
-Session 44: Chrome
-  Time: 18:23:28 - 18:24:02
-  Duration: 33s
-
-Session 45: BaerenLock
-  Time: 18:24:02 - 18:24:12
-  Duration: 9s
-
-Session 46: Chrome
-  Time: 18:24:12 - 18:24:13
-  Duration: 1s
-
-Session 47: BaerenEd
-  Time: 18:24:13 - 18:24:39
-  Duration: 25s
-
-Session 48: Chrome
-  Time: 18:24:39 - 18:24:41
+Session 3: BaerenLock
+  Time: 18:09:23 - 18:09:25
   Duration: 2s
 
-Session 49: BaerenEd
-  Time: 18:24:41 - 18:24:41
+Session 4: Netflix
+  Time: 18:09:25 - 18:09:25
   Duration: 0s
 
-Session 50: Chrome
-  Time: 18:24:41 - 18:24:41
+Session 5: BaerenLock
+  Time: 18:09:25 - 18:09:25
   Duration: 0s
 
-Session 51: BaerenEd
-  Time: 18:24:41 - 18:24:45
-  Duration: 3s
-
-Session 52: Chrome
-  Time: 18:24:45 - 18:24:45
-  Duration: 0s
-
-Session 53: BaerenLock
-  Time: 18:24:45 - 18:24:48
-  Duration: 2s
-
-Session 54: Chrome
-  Time: 18:24:48 - 18:25:11
-  Duration: 23s
-
-Session 55: BaerenLock
-  Time: 18:25:11 - 18:25:15
-  Duration: 3s
-
-Session 56: Chrome
-  Time: 18:25:15 - 18:25:15
-  Duration: 0s
-
-Session 57: BaerenLock
-  Time: 18:25:15 - 18:25:17
-  Duration: 1s
-
-Session 58: Chrome
-  Time: 18:25:17 - 18:25:18
-  Duration: 0s
-
-Session 59: BaerenLock
-  Time: 18:25:18 - 18:25:20
-  Duration: 2s
-
-Session 60: Chrome
-  Time: 18:25:20 - 18:25:46
-  Duration: 25s
-
-Session 61: BaerenLock
-  Time: 18:25:46 - 18:25:48
-  Duration: 2s
-
-Session 62: Chrome
-  Time: 18:25:48 - 18:25:52
-  Duration: 3s
-
-Session 63: BaerenLock
-  Time: 18:25:52 - 18:25:53
-  Duration: 1s
-
-Session 64: Chrome
-  Time: 18:25:53 - 18:26:11
-  Duration: 17s
-
-Session 65: BaerenEd
-  Time: 18:26:11 - 18:29:17
-  Duration: 3m 6s
-
-Session 66: BaerenLock
-  Time: 18:29:17 - 18:29:20
-  Duration: 2s
-
-Session 67: Netflix
-  Time: 18:29:20 - 18:29:20
-  Duration: 0s
-
-Session 68: BaerenLock
-  Time: 18:29:20 - 18:29:22
-  Duration: 2s
-
-Session 69: Netflix
-  Time: 18:29:22 - 18:29:22
-  Duration: 0s
-
-Session 70: BaerenLock
-  Time: 18:29:22 - 18:29:24
-  Duration: 2s
-
-Session 71: Netflix
-  Time: 18:29:24 - 18:29:24
-  Duration: 0s
-
-Session 72: BaerenLock
-  Time: 18:29:24 - 18:29:24
-  Duration: 0s
-
-Session 73: Netflix
-  Time: 18:29:24 - 18:29:30
-  Duration: 5s
-
-Session 74: System UI
-  Time: 18:29:30 - 18:29:30
-  Duration: 0s
-
-Session 75: Netflix
-  Time: 18:29:30 - 18:46:10
-  Duration: 16m 40s
+Session 6: Netflix
+  Time: 18:09:25 - 18:55:39
+  Duration: 46m 13s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 101m 28s
-Number of apps used: 8
-Average time per app: 12m 41s
+Total reward time used: 46m 17s
+Number of apps used: 2
+Average time per app: 23m 8s
 
