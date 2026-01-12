@@ -1,10 +1,10 @@
 🎮 REWARD TIME USAGE REPORT - BM
 ==================================================
-Date: January 11, 2026
+Date: January 12, 2026
 
-Rewards used for period: January 11, 2026 at 16:25 - January 11, 2026 at 16:26
+Rewards used for period: January 12, 2026 at 14:47 - January 12, 2026 at 14:52
 ==================================================
-Total Reward Time: 58s
+Total Reward Time: 4m 56s
 
 📱 APP USAGE SUMMARY
 ------------------------------
@@ -12,35 +12,47 @@ Total Apps Used: 3
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Maps: 49s (84.5%)
-2. BaerenLock: 9s (15.5%)
+1. BaerenEd: 4m 54s (99.3%)
+2. BaerenLock: 2s (0.7%)
 3. System UI: 0s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 16:25:46 - 16:25:56
-  Duration: 9s
+  Time: 14:47:31 - 14:47:34
+  Duration: 2s
 
-Session 2: Maps
-  Time: 16:25:56 - 16:25:57
+Session 2: BaerenEd
+  Time: 14:47:34 - 14:47:35
   Duration: 0s
 
-Session 3: System UI
-  Time: 16:25:57 - 16:25:57
+Session 3: BaerenLock
+  Time: 14:47:35 - 14:47:35
   Duration: 0s
 
-Session 4: BaerenLock
-  Time: 16:25:57 - 16:25:57
+Session 4: System UI
+  Time: 14:47:35 - 14:47:36
   Duration: 0s
 
-Session 5: Maps
-  Time: 16:25:57 - 16:26:46
-  Duration: 49s
+Session 5: BaerenLock
+  Time: 14:47:36 - 14:47:37
+  Duration: 0s
+
+Session 6: BaerenEd
+  Time: 14:47:37 - 14:47:38
+  Duration: 1s
+
+Session 7: BaerenLock
+  Time: 14:47:38 - 14:47:38
+  Duration: 0s
+
+Session 8: BaerenEd
+  Time: 14:47:38 - 14:52:31
+  Duration: 4m 53s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 58s
+Total reward time used: 4m 56s
 Number of apps used: 3
-Average time per app: 19s
+Average time per app: 1m 38s
 
