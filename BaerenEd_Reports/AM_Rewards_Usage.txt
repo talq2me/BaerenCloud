@@ -1,33 +1,51 @@
 🎮 REWARD TIME USAGE REPORT - AM
 ==================================================
-Date: January 11, 2026
+Date: January 14, 2026
 
-Rewards used for period: January 11, 2026 at 12:46 - January 11, 2026 at 12:56
+Rewards used for period: January 14, 2026 at 14:56 - January 14, 2026 at 14:56
 ==================================================
-Total Reward Time: 10m 0s
+Total Reward Time: 28s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 2
+Total Apps Used: 4
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. BaerenEd: 9m 59s (99.8%)
-2. BaerenLock: 1s (0.2%)
+1. Maps: 25s (89.3%)
+2. BaerenLock: 3s (10.7%)
+3. Pixel Launcher: 0s (0.0%)
+4. System UI: 0s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 12:46:47 - 12:46:48
-  Duration: 1s
+  Time: 14:56:17 - 14:56:21
+  Duration: 3s
 
-Session 2: BaerenEd
-  Time: 12:46:48 - 12:56:48
-  Duration: 9m 59s
+Session 2: Pixel Launcher
+  Time: 14:56:21 - 14:56:21
+  Duration: 0s
+
+Session 3: System UI
+  Time: 14:56:21 - 14:56:21
+  Duration: 0s
+
+Session 4: Maps
+  Time: 14:56:21 - 14:56:21
+  Duration: 0s
+
+Session 5: BaerenLock
+  Time: 14:56:21 - 14:56:21
+  Duration: 0s
+
+Session 6: Maps
+  Time: 14:56:21 - 14:56:47
+  Duration: 25s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 10m 0s
-Number of apps used: 2
-Average time per app: 5m 0s
+Total reward time used: 28s
+Number of apps used: 4
+Average time per app: 7s
 
