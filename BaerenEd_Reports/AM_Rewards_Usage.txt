@@ -1,10 +1,10 @@
 🎮 REWARD TIME USAGE REPORT - AM
 ==================================================
-Date: January 14, 2026
+Date: January 15, 2026
 
-Rewards used for period: January 14, 2026 at 14:56 - January 14, 2026 at 14:56
+Rewards used for period: January 15, 2026 at 07:50 - January 15, 2026 at 08:00
 ==================================================
-Total Reward Time: 28s
+Total Reward Time: 9m 59s
 
 📱 APP USAGE SUMMARY
 ------------------------------
@@ -12,40 +12,68 @@ Total Apps Used: 4
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Maps: 25s (89.3%)
-2. BaerenLock: 3s (10.7%)
-3. Pixel Launcher: 0s (0.0%)
-4. System UI: 0s (0.0%)
+1. BaerenEd: 6m 31s (65.3%)
+2. Boukili: 3m 26s (34.4%)
+3. BaerenLock: 1s (0.2%)
+4. One UI Home: 1s (0.2%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 14:56:17 - 14:56:21
-  Duration: 3s
+  Time: 07:50:17 - 07:50:19
+  Duration: 1s
 
-Session 2: Pixel Launcher
-  Time: 14:56:21 - 14:56:21
+Session 2: BaerenEd
+  Time: 07:50:19 - 07:50:19
   Duration: 0s
 
-Session 3: System UI
-  Time: 14:56:21 - 14:56:21
+Session 3: BaerenLock
+  Time: 07:50:19 - 07:50:20
   Duration: 0s
 
-Session 4: Maps
-  Time: 14:56:21 - 14:56:21
+Session 4: BaerenEd
+  Time: 07:50:20 - 07:50:20
   Duration: 0s
 
 Session 5: BaerenLock
-  Time: 14:56:21 - 14:56:21
+  Time: 07:50:20 - 07:50:20
   Duration: 0s
 
-Session 6: Maps
-  Time: 14:56:21 - 14:56:47
+Session 6: BaerenEd
+  Time: 07:50:20 - 07:50:45
   Duration: 25s
+
+Session 7: Boukili
+  Time: 07:50:45 - 07:50:45
+  Duration: 0s
+
+Session 8: BaerenEd
+  Time: 07:50:45 - 07:50:46
+  Duration: 0s
+
+Session 9: Boukili
+  Time: 07:50:46 - 07:54:13
+  Duration: 3m 26s
+
+Session 10: One UI Home
+  Time: 07:54:13 - 07:54:13
+  Duration: 0s
+
+Session 11: Boukili
+  Time: 07:54:13 - 07:54:14
+  Duration: 0s
+
+Session 12: One UI Home
+  Time: 07:54:14 - 07:54:15
+  Duration: 1s
+
+Session 13: BaerenEd
+  Time: 07:54:15 - 08:00:22
+  Duration: 6m 6s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 28s
+Total reward time used: 9m 59s
 Number of apps used: 4
-Average time per app: 7s
+Average time per app: 2m 29s
 
