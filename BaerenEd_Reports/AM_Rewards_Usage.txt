@@ -1,10 +1,10 @@
 🎮 REWARD TIME USAGE REPORT - AM
 ==================================================
-Date: January 15, 2026
+Date: January 16, 2026
 
-Rewards used for period: January 15, 2026 at 09:31 - January 15, 2026 at 10:22
+Rewards used for period: January 16, 2026 at 07:32 - January 16, 2026 at 07:37
 ==================================================
-Total Reward Time: 51m 17s
+Total Reward Time: 5m 1s
 
 📱 APP USAGE SUMMARY
 ------------------------------
@@ -12,70 +12,22 @@ Total Apps Used: 2
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. System UI: 36m 59s (72.1%)
-2. BaerenLock: 14m 18s (27.9%)
+1. BaerenEd: 5m 0s (99.7%)
+2. BaerenLock: 1s (0.3%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 09:31:06 - 09:31:06
-  Duration: 0s
+  Time: 07:32:29 - 07:32:30
+  Duration: 1s
 
-Session 2: System UI
-  Time: 09:31:06 - 09:31:48
-  Duration: 41s
-
-Session 3: BaerenLock
-  Time: 09:31:48 - 09:32:03
-  Duration: 15s
-
-Session 4: System UI
-  Time: 09:32:03 - 09:32:10
-  Duration: 6s
-
-Session 5: BaerenLock
-  Time: 09:32:10 - 09:33:04
-  Duration: 54s
-
-Session 6: System UI
-  Time: 09:33:04 - 09:33:44
-  Duration: 39s
-
-Session 7: BaerenLock
-  Time: 09:33:44 - 09:37:12
-  Duration: 3m 27s
-
-Session 8: System UI
-  Time: 09:37:12 - 09:37:31
-  Duration: 19s
-
-Session 9: BaerenLock
-  Time: 09:37:31 - 09:39:06
-  Duration: 1m 34s
-
-Session 10: System UI
-  Time: 09:39:06 - 09:39:07
-  Duration: 0s
-
-Session 11: BaerenLock
-  Time: 09:39:07 - 09:42:13
-  Duration: 3m 6s
-
-Session 12: System UI
-  Time: 09:42:13 - 09:42:13
-  Duration: 0s
-
-Session 13: BaerenLock
-  Time: 09:42:13 - 09:47:16
-  Duration: 5m 2s
-
-Session 14: System UI
-  Time: 09:47:16 - 10:22:30
-  Duration: 35m 14s
+Session 2: BaerenEd
+  Time: 07:32:30 - 07:37:31
+  Duration: 5m 0s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 51m 17s
+Total reward time used: 5m 1s
 Number of apps used: 2
-Average time per app: 25m 38s
+Average time per app: 2m 30s
 
