@@ -1,33 +1,75 @@
 🎮 REWARD TIME USAGE REPORT - AM
 ==================================================
-Date: January 16, 2026
+Date: January 19, 2026
 
-Rewards used for period: January 16, 2026 at 07:32 - January 16, 2026 at 07:37
+Rewards used for period: January 19, 2026 at 17:57 - January 19, 2026 at 17:58
 ==================================================
-Total Reward Time: 5m 1s
+Total Reward Time: 55s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 2
+Total Apps Used: 4
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. BaerenEd: 5m 0s (99.7%)
-2. BaerenLock: 1s (0.3%)
+1. BaerenLock: 28s (50.9%)
+2. Netflix: 23s (41.8%)
+3. BaerenEd: 4s (7.3%)
+4. Android Services Library: 0s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 07:32:29 - 07:32:30
-  Duration: 1s
+  Time: 17:57:46 - 17:57:56
+  Duration: 9s
 
 Session 2: BaerenEd
-  Time: 07:32:30 - 07:37:31
-  Duration: 5m 0s
+  Time: 17:57:56 - 17:57:57
+  Duration: 0s
+
+Session 3: BaerenLock
+  Time: 17:57:57 - 17:57:57
+  Duration: 0s
+
+Session 4: BaerenEd
+  Time: 17:57:57 - 17:58:00
+  Duration: 3s
+
+Session 5: BaerenLock
+  Time: 17:58:00 - 17:58:01
+  Duration: 0s
+
+Session 6: BaerenEd
+  Time: 17:58:01 - 17:58:02
+  Duration: 1s
+
+Session 7: BaerenLock
+  Time: 17:58:02 - 17:58:06
+  Duration: 4s
+
+Session 8: Android Services Library
+  Time: 17:58:06 - 17:58:07
+  Duration: 0s
+
+Session 9: BaerenLock
+  Time: 17:58:07 - 17:58:20
+  Duration: 13s
+
+Session 10: Netflix
+  Time: 17:58:20 - 17:58:21
+  Duration: 0s
+
+Session 11: BaerenLock
+  Time: 17:58:21 - 17:58:23
+  Duration: 2s
+
+Session 12: Netflix
+  Time: 17:58:23 - 17:58:46
+  Duration: 23s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 5m 1s
-Number of apps used: 2
-Average time per app: 2m 30s
+Total reward time used: 55s
+Number of apps used: 4
+Average time per app: 13s
 
