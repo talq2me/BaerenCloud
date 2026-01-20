@@ -2,40 +2,41 @@
 ==================================================
 Date: January 20, 2026
 
-Rewards used for period: January 20, 2026 at 11:59 - January 20, 2026 at 12:00
+Rewards used for period: January 20, 2026 at 14:54 - January 20, 2026 at 14:54
 ==================================================
 Total Reward Time: 28s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 2
+Total Apps Used: 3
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. Netflix: 21s (75.0%)
-2. BaerenLock: 7s (25.0%)
+1. BaerenLock: 13s (46.4%)
+2. Netflix: 13s (46.4%)
+3. BaerenEd: 2s (7.1%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 11:59:59 - 12:00:06
-  Duration: 7s
+  Time: 14:54:06 - 14:54:16
+  Duration: 10s
 
-Session 2: Netflix
-  Time: 12:00:06 - 12:00:08
-  Duration: 1s
+Session 2: BaerenEd
+  Time: 14:54:16 - 14:54:19
+  Duration: 2s
 
 Session 3: BaerenLock
-  Time: 12:00:08 - 12:00:08
-  Duration: 0s
+  Time: 14:54:19 - 14:54:23
+  Duration: 3s
 
 Session 4: Netflix
-  Time: 12:00:08 - 12:00:29
-  Duration: 20s
+  Time: 14:54:23 - 14:54:36
+  Duration: 13s
 
 💡 SUMMARY
 ------------------------------
 Total reward time used: 28s
-Number of apps used: 2
-Average time per app: 14s
+Number of apps used: 3
+Average time per app: 9s
 
