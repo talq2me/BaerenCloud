@@ -31,3 +31,32 @@ Total reward time used: 5m 1s
 Number of apps used: 2
 Average time per app: 2m 30s
 
+Rewards used for period: February 04, 2026 at 18:19 - February 04, 2026 at 18:24
+==================================================
+Total Reward Time: 5m 1s
+
+📱 APP USAGE SUMMARY
+------------------------------
+Total Apps Used: 2
+
+📊 APPS BY USAGE TIME
+------------------------------
+1. Netflix: 4m 59s (99.3%)
+2. BaerenLock: 2s (0.7%)
+
+📝 DETAILED SESSION LOG
+------------------------------
+Session 1: BaerenLock
+  Time: 18:19:21 - 18:19:23
+  Duration: 2s
+
+Session 2: Netflix
+  Time: 18:19:23 - 18:24:23
+  Duration: 4m 59s
+
+💡 SUMMARY
+------------------------------
+Total reward time used: 5m 1s
+Number of apps used: 2
+Average time per app: 2m 30s
+
