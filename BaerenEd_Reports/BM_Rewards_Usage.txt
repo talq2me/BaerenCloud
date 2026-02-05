@@ -36,3 +36,63 @@ Total reward time used: 8m 3s
 Number of apps used: 3
 Average time per app: 2m 41s
 
+Rewards used for period: February 05, 2026 at 16:30 - February 05, 2026 at 16:42
+==================================================
+Total Reward Time: 12m 12s
+
+📱 APP USAGE SUMMARY
+------------------------------
+Total Apps Used: 5
+
+📊 APPS BY USAGE TIME
+------------------------------
+1. System UI: 12m 0s (98.4%)
+2. Chrome: 7s (1.0%)
+3. BaerenLock: 5s (0.7%)
+4. BaerenEd: 0s (0.0%)
+5. Quickstep: 0s (0.0%)
+
+📝 DETAILED SESSION LOG
+------------------------------
+Session 1: BaerenEd
+  Time: 16:30:17 - 16:30:17
+  Duration: 0s
+
+Session 2: Chrome
+  Time: 16:30:17 - 16:30:19
+  Duration: 1s
+
+Session 3: Quickstep
+  Time: 16:30:19 - 16:30:19
+  Duration: 0s
+
+Session 4: Chrome
+  Time: 16:30:19 - 16:30:19
+  Duration: 0s
+
+Session 5: BaerenLock
+  Time: 16:30:19 - 16:30:20
+  Duration: 0s
+
+Session 6: Chrome
+  Time: 16:30:20 - 16:30:20
+  Duration: 0s
+
+Session 7: BaerenLock
+  Time: 16:30:20 - 16:30:26
+  Duration: 5s
+
+Session 8: Chrome
+  Time: 16:30:26 - 16:30:33
+  Duration: 6s
+
+Session 9: System UI
+  Time: 16:30:33 - 16:42:33
+  Duration: 12m 0s
+
+💡 SUMMARY
+------------------------------
+Total reward time used: 12m 12s
+Number of apps used: 5
+Average time per app: 2m 26s
+
