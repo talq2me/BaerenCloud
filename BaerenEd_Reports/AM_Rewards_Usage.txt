@@ -1,222 +1,103 @@
 🎮 REWARD TIME USAGE REPORT - AM
 ==================================================
-Date: February 03, 2026
+Date: February 13, 2026
 
-Rewards used for period: February 03, 2026 at 12:36 - February 03, 2026 at 19:06
+Rewards used for period: February 13, 2026 at 17:53 - February 13, 2026 at 20:04
 ==================================================
-Total Reward Time: 390m 14s
+Total Reward Time: 130m 6s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 7
+Total Apps Used: 4
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. System UI: 343m 43s (88.1%)
-2. Netflix: 40m 55s (10.5%)
-3. BaerenEd: 3m 36s (0.9%)
-4. Read Along: 1m 36s (0.4%)
-5. One UI Home: 12s (0.1%)
-6. BaerenLock: 11s (0.0%)
-7. Clock style: 1s (0.0%)
+1. System UI: 86m 2s (66.1%)
+2. Netflix: 43m 47s (33.7%)
+3. BaerenLock: 17s (0.2%)
+4. Clock style: 0s (0.0%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 12:36:03 - 12:36:03
+  Time: 17:53:58 - 17:54:16
+  Duration: 17s
+
+Session 2: Netflix
+  Time: 17:54:16 - 18:33:45
+  Duration: 39m 28s
+
+Session 3: System UI
+  Time: 18:33:45 - 18:48:12
+  Duration: 14m 26s
+
+Session 4: Netflix
+  Time: 18:48:12 - 18:52:31
+  Duration: 4m 19s
+
+Session 5: System UI
+  Time: 18:52:31 - 19:00:01
+  Duration: 7m 30s
+
+Session 6: Clock style
+  Time: 19:00:01 - 19:00:02
   Duration: 0s
 
-Session 2: One UI Home
-  Time: 12:36:03 - 12:36:13
-  Duration: 10s
-
-Session 3: BaerenEd
-  Time: 12:36:13 - 12:36:19
-  Duration: 5s
-
-Session 4: BaerenLock
-  Time: 12:36:19 - 12:36:24
-  Duration: 4s
-
-Session 5: BaerenEd
-  Time: 12:36:24 - 12:36:38
-  Duration: 14s
-
-Session 6: System UI
-  Time: 12:36:38 - 12:36:41
-  Duration: 2s
-
-Session 7: Clock style
-  Time: 12:36:41 - 12:36:42
-  Duration: 1s
-
-Session 8: System UI
-  Time: 12:36:42 - 12:46:27
-  Duration: 9m 44s
-
-Session 9: Clock style
-  Time: 12:46:27 - 12:46:27
+Session 7: System UI
+  Time: 19:00:02 - 19:00:02
   Duration: 0s
 
-Session 10: System UI
-  Time: 12:46:27 - 12:46:27
+Session 8: Clock style
+  Time: 19:00:02 - 19:00:02
   Duration: 0s
 
-Session 11: Clock style
-  Time: 12:46:27 - 12:46:27
+Session 9: System UI
+  Time: 19:00:02 - 19:00:02
   Duration: 0s
 
-Session 12: System UI
-  Time: 12:46:27 - 12:46:27
+Session 10: Clock style
+  Time: 19:00:02 - 19:00:02
   Duration: 0s
 
-Session 13: Clock style
-  Time: 12:46:27 - 12:46:27
+Session 11: System UI
+  Time: 19:00:02 - 19:10:32
+  Duration: 10m 30s
+
+Session 12: Clock style
+  Time: 19:10:32 - 19:10:32
   Duration: 0s
 
-Session 14: System UI
-  Time: 12:46:27 - 13:22:27
-  Duration: 35m 59s
+Session 13: System UI
+  Time: 19:10:32 - 19:10:42
+  Duration: 9s
 
-Session 15: Clock style
-  Time: 13:22:27 - 13:22:27
+Session 14: Clock style
+  Time: 19:10:42 - 19:10:42
   Duration: 0s
 
-Session 16: System UI
-  Time: 13:22:27 - 13:22:27
+Session 15: System UI
+  Time: 19:10:42 - 19:34:03
+  Duration: 23m 20s
+
+Session 16: Clock style
+  Time: 19:34:03 - 19:34:03
   Duration: 0s
 
-Session 17: Clock style
-  Time: 13:22:27 - 13:22:27
+Session 17: System UI
+  Time: 19:34:03 - 19:34:03
   Duration: 0s
 
-Session 18: System UI
-  Time: 13:22:27 - 14:22:38
-  Duration: 60m 10s
-
-Session 19: Clock style
-  Time: 14:22:38 - 14:22:38
+Session 18: Clock style
+  Time: 19:34:03 - 19:34:03
   Duration: 0s
 
-Session 20: System UI
-  Time: 14:22:38 - 14:22:38
-  Duration: 0s
-
-Session 21: Clock style
-  Time: 14:22:38 - 14:22:38
-  Duration: 0s
-
-Session 22: System UI
-  Time: 14:22:38 - 16:23:10
-  Duration: 120m 31s
-
-Session 23: Clock style
-  Time: 16:23:10 - 16:23:10
-  Duration: 0s
-
-Session 24: System UI
-  Time: 16:23:10 - 16:23:10
-  Duration: 0s
-
-Session 25: Clock style
-  Time: 16:23:10 - 16:23:10
-  Duration: 0s
-
-Session 26: System UI
-  Time: 16:23:10 - 16:23:10
-  Duration: 0s
-
-Session 27: Clock style
-  Time: 16:23:10 - 16:23:10
-  Duration: 0s
-
-Session 28: System UI
-  Time: 16:23:10 - 18:14:59
-  Duration: 111m 48s
-
-Session 29: Clock style
-  Time: 18:14:59 - 18:14:59
-  Duration: 0s
-
-Session 30: System UI
-  Time: 18:14:59 - 18:14:59
-  Duration: 0s
-
-Session 31: Clock style
-  Time: 18:14:59 - 18:14:59
-  Duration: 0s
-
-Session 32: System UI
-  Time: 18:14:59 - 18:20:29
-  Duration: 5m 29s
-
-Session 33: BaerenEd
-  Time: 18:20:29 - 18:20:29
-  Duration: 0s
-
-Session 34: System UI
-  Time: 18:20:29 - 18:20:29
-  Duration: 0s
-
-Session 35: BaerenEd
-  Time: 18:20:29 - 18:22:33
-  Duration: 2m 4s
-
-Session 36: One UI Home
-  Time: 18:22:33 - 18:22:35
-  Duration: 2s
-
-Session 37: BaerenLock
-  Time: 18:22:35 - 18:22:37
-  Duration: 1s
-
-Session 38: One UI Home
-  Time: 18:22:37 - 18:22:37
-  Duration: 0s
-
-Session 39: BaerenLock
-  Time: 18:22:37 - 18:22:43
-  Duration: 5s
-
-Session 40: BaerenEd
-  Time: 18:22:43 - 18:23:50
-  Duration: 1m 6s
-
-Session 41: Read Along
-  Time: 18:23:50 - 18:24:26
-  Duration: 36s
-
-Session 42: System UI
-  Time: 18:24:26 - 18:24:26
-  Duration: 0s
-
-Session 43: Read Along
-  Time: 18:24:26 - 18:25:27
-  Duration: 1m 0s
-
-Session 44: BaerenEd
-  Time: 18:25:27 - 18:25:27
-  Duration: 0s
-
-Session 45: Read Along
-  Time: 18:25:27 - 18:25:28
-  Duration: 0s
-
-Session 46: BaerenEd
-  Time: 18:25:28 - 18:25:35
-  Duration: 7s
-
-Session 47: BaerenLock
-  Time: 18:25:35 - 18:25:36
-  Duration: 1s
-
-Session 48: Netflix
-  Time: 18:25:36 - 19:06:32
-  Duration: 40m 55s
+Session 19: System UI
+  Time: 19:34:03 - 20:04:10
+  Duration: 30m 7s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 390m 14s
-Number of apps used: 7
-Average time per app: 55m 44s
+Total reward time used: 130m 6s
+Number of apps used: 4
+Average time per app: 32m 31s
 
