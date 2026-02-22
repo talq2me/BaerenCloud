@@ -1,46 +1,41 @@
 🎮 REWARD TIME USAGE REPORT - AM
 ==================================================
-Date: February 20, 2026
+Date: February 22, 2026
 
-Rewards used for period: February 20, 2026 at 07:09 - February 20, 2026 at 07:14
+Rewards used for period: February 22, 2026 at 13:41 - February 22, 2026 at 13:46
 ==================================================
-Total Reward Time: 4m 59s
+Total Reward Time: 5m 1s
 
 📱 APP USAGE SUMMARY
 ------------------------------
-Total Apps Used: 3
+Total Apps Used: 2
 
 📊 APPS BY USAGE TIME
 ------------------------------
-1. BaerenEd: 4m 55s (98.7%)
-2. BaerenLock: 3s (1.0%)
-3. One UI Home: 1s (0.3%)
+1. BaerenEd: 4m 57s (98.7%)
+2. BaerenLock: 4s (1.3%)
 
 📝 DETAILED SESSION LOG
 ------------------------------
 Session 1: BaerenLock
-  Time: 07:09:18 - 07:09:21
+  Time: 13:41:03 - 13:41:05
   Duration: 2s
 
 Session 2: BaerenEd
-  Time: 07:09:21 - 07:10:03
-  Duration: 42s
+  Time: 13:41:05 - 13:41:06
+  Duration: 0s
 
-Session 3: One UI Home
-  Time: 07:10:03 - 07:10:05
-  Duration: 1s
+Session 3: BaerenLock
+  Time: 13:41:06 - 13:41:08
+  Duration: 2s
 
-Session 4: BaerenLock
-  Time: 07:10:05 - 07:10:06
-  Duration: 1s
-
-Session 5: BaerenEd
-  Time: 07:10:06 - 07:14:20
-  Duration: 4m 13s
+Session 4: BaerenEd
+  Time: 13:41:08 - 13:46:05
+  Duration: 4m 57s
 
 💡 SUMMARY
 ------------------------------
-Total reward time used: 4m 59s
-Number of apps used: 3
-Average time per app: 1m 39s
+Total reward time used: 5m 1s
+Number of apps used: 2
+Average time per app: 2m 30s
 
