@@ -255,3 +255,32 @@ Total reward time used: 962m 33s
 Number of apps used: 10
 Average time per app: 96m 15s
 
+Rewards used for period: March 03, 2026 at 12:14 - March 03, 2026 at 12:19
+==================================================
+Total Reward Time: 4m 59s
+
+📱 APP USAGE SUMMARY
+------------------------------
+Total Apps Used: 2
+
+📊 APPS BY USAGE TIME
+------------------------------
+1. System UI: 3m 55s (78.6%)
+2. BaerenLock: 1m 4s (21.4%)
+
+📝 DETAILED SESSION LOG
+------------------------------
+Session 1: BaerenLock
+  Time: 12:14:07 - 12:15:11
+  Duration: 1m 4s
+
+Session 2: System UI
+  Time: 12:15:11 - 12:19:07
+  Duration: 3m 55s
+
+💡 SUMMARY
+------------------------------
+Total reward time used: 4m 59s
+Number of apps used: 2
+Average time per app: 2m 29s
+
